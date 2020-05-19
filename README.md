@@ -1,1 +1,1 @@
-# planetary-system-generator
+# Star Trek Planetary System Generator
