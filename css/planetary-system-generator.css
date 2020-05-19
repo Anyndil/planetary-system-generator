@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/background/nebula006.png);
+}
+
+body > h3.header {
+    margin: 20px 20px 20px 20px;
+}
+
+/* Class Styles */
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
