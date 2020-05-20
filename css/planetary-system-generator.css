@@ -2,8 +2,16 @@ body {
     background-image: url(../img/background/nebula006.png);
 }
 
-body > h3.header {
+body > div.header > h3.header {
     margin: 20px 20px 20px 20px;
+}
+
+body > div.header > h3 > a {
+    float: right;
+}
+
+body > div.header > h3 > a.roll-button {
+    margin-right: 20px;
 }
 
 /* Class Styles */

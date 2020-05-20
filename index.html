@@ -11,10 +11,27 @@
     <!-- Compiled and minified JavaScript -->
     <script src="./lib/jquery/jquery-3.3.1.js" type="text/javascript"></script>
     <script src="./lib/materialize/js/materialize.js" type="text/javascript"></script>
+    <script src="./js/planetary-system-generator.js" type="text/javascript"></script>
 </head>
 
 <body>
-    <h3 class="header white-text">Star Trek : Planetary System Generator</h3>
+    <div class="header">
+        <h3 class="header white-text">
+            <span>Star Trek : Planetary System Generator</span>
+
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn blue" href="#" data-target="mainMenu"><i class="material-icons">menu</i></a>
+
+            <!-- Dropdown Structure -->
+            <ul id="mainMenu" class="dropdown-content">
+                <li><a href="#!">Save</a></li>
+                <li><a href="#!">Load</a></li>
+            </ul>
+
+            <!-- Roll Button -->
+            <a class="btn-floating btn waves-effect waves-light blue roll-button"><i class="material-icons">casino</i></a>
+        </h3>
+    </div>
 
     <!-- Site Info -->
     <div class="container site-info italic white-text">
@@ -33,7 +50,7 @@
     <!-- Disclaimer -->
     <div class="container disclaimer italic white-text">
         <div class="bold">Disclaimer:</div>
-        <div>This site is not endorsed, sponsored or affiliated with CBS Studios Inc., Paramount Pictures, or the STAR TREK franchise. The Star Trek&copy; franchise and related logos are owned and a registered trademark of Paramount Pictures & CBS Studios Inc. Star Trek&copy;, Star Trek: The Next Generation&copy;, Star Trek: Deep Space Nine&copy;, Star Trek: Voyager&copy;, Star Trek: Enterprise&copy;, Star Trek: Discovery&copy;, and Star Trek: Picard&copy; are Trademarks of Paramount Pictures/ CBS Television.</div>
+        <div>This site is not endorsed, sponsored or affiliated with CBS Studios Inc., Paramount Pictures, or the STAR TREK franchise. The Star Trek&copy; franchise and related logos are owned and a registered trademark of Paramount Pictures & CBS Studios Inc. Star Trek&copy;, Star Trek: The Next Generation&copy;, Star Trek: Deep Space Nine&copy;, Star Trek: Voyager&copy;, Star Trek: Enterprise&copy;, Star Trek: Discovery&copy;, and Star Trek: Picard&copy; are Trademarks of Paramount Pictures/CBS Television.</div>
     </div>
 </body>
 </html>
