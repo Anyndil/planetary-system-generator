@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/background/nebula006.png);
+    background-image: url(../image/background/nebula006.png);
 }
 
 body > div.header > h3.header {
@@ -15,10 +15,24 @@ body > div.header > h3 > a.roll-button {
 }
 
 /* Class Styles */
-.bold {
+.hidden { display: none; }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+.float-right { float: right; }
+
+/* Visualization */
+div.visualization-container {
+    margin: 0px 40px 20px 40px;
+}
+
+.group-label,
+.star-label,
+.view-title {
+    color: white;
     font-weight: bold;
 }
 
-.italic {
-    font-style: italic;
+#systemVis .planet{
+    margin-left: 10px;
+    margin-right: 10px;
 }
