@@ -84,7 +84,7 @@ window.planetarySystemGenerator = (function () {
         "planet.class.p": ["ClassP_01.png", "ClassP_02.png", "ClassP_03.png", "ClassP_04.png", "ClassP_05.png", "ClassP_06.png", "ClassP_07.png", "ClassP_08.png", "RClassP1.png", "RClassP2.png"],
         "planet.class.q": ["ClassQ_02.png", "ClassQ_03.png", "ClassQ_04.png", "ClassQ_05.png", "ClassQ_06.png", "RClassQ1.png"],
         "planet.class.r": ["ClassR_01.png", "ClassR_02.png", "ClassR_03.png", "ClassR_04.png", "ClassR_05.png", "RClassR1.png"],
-        "planet.class.s": ["ClassS_01.png", "ClassS_02.png", "ClassS_03.png", "ClassS_04.png", "ClassS_05.png", "RClassS1.png", "RClassS2.png"],
+        "planet.class.s": ["ClassS_01.png", "ClassS_03.png", "ClassS_04.png", "ClassS_05.png", "RClassS1.png"],
         "planet.class.t": [],
         "planet.class.u": ["ClassU_01.png", "ClassU_02.png", "ClassU_03.png", "ClassU_04.png", "ClassU_05.png"],
         "planet.class.x": ["ClassX_01.png", "ClassX_02.png", "ClassX_03.png", "ClassX_04.png", "RClassX1.png", "RClassX2.png"],

@@ -18,6 +18,7 @@ window.planetarySystemVisualization = (function () {
      */
     function renderStellarGroups(target, data, context) {
         var vis = jQuery(target);
+        var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
 
         // Cleanup
         jQuery("div.material-tooltip").remove();
@@ -29,10 +30,13 @@ window.planetarySystemVisualization = (function () {
             };
 
             // System View Label
-            vis.empty()
-                .append(jQuery("<div/>")
-                .attr("class", "view-title")
-                .text("System View"));
+            vis.empty();
+            breadcrumbContainer.empty()
+                .append(jQuery("<a/>")
+                .attr("href", "#!")
+                .attr("class", "breadcrumb")
+                .text(data.name)
+                .click(function(){ renderStellarGroups(target, data); }));
         }
 
         data.starGroup.forEach((group, i) => {
@@ -47,6 +51,7 @@ window.planetarySystemVisualization = (function () {
      */
     function renderStellarGroup(target, group, context) {
         var vis = jQuery(target);
+        var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
 
         // Set Defaults
         if(typeof context === "undefined") {
@@ -58,10 +63,12 @@ window.planetarySystemVisualization = (function () {
             // Cleanup
             jQuery("div.material-tooltip").remove();
 
-            vis.empty()
-                .append(jQuery("<div/>")
-                .attr("class", "view-title")
-                .text("Stellar Group View"));
+            vis.empty();
+            breadcrumbContainer.append(jQuery("<a/>")
+                .attr("href", "#!")
+                .attr("class", "breadcrumb")
+                .text(group.name)
+                .click(function(){ renderStellarGroups(target, group, context); }));
         }
 
         // Group Visualization Here
@@ -79,7 +86,7 @@ window.planetarySystemVisualization = (function () {
                 .text(group.name)
                 .click(function() {
                     var groupName = jQuery(this).attr("data-name");
-                    var group = planetarySystemGenerator.data.planetarySystem.starGroup.filter(function(gr) { return gr.name == groupName; })
+                    var group = planetarySystem.starGroup.filter(function(gr) { return gr.name == groupName; })
 
                     planetarySystemVisualization.renderStellarGroup(target, group[0]);
                 });
@@ -111,7 +118,7 @@ window.planetarySystemVisualization = (function () {
                     .width(dim)
                     .click(function() {
                         var starName = jQuery(this).attr("data-name");
-                        var star = planetarySystemGenerator.data.planetarySystem.stars.filter(function(st) { return st.name == starName; })
+                        var star = planetarySystem.stars.filter(function(st) { return st.name == starName; })
 
                         planetarySystemVisualization.renderPlanetarySystem(target, star[0]);
                     });
@@ -141,6 +148,8 @@ window.planetarySystemVisualization = (function () {
      */
     function renderPlanetarySystem(target, star) {
         var vis = jQuery(target);
+        var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
+
         var planetRadiusMax = getLargestPlanetRadius(star.planets);
         var planetarySystemScale = 1;
 
@@ -150,10 +159,12 @@ window.planetarySystemVisualization = (function () {
         // Cleanup
         jQuery("div.material-tooltip").remove();
 
-        vis.empty()
-            .append(jQuery("<div/>")
-            .attr("class", "view-title")
-            .text("Planetary System View"));
+        vis.empty();
+        breadcrumbContainer.append(jQuery("<a/>")
+            .attr("href", "#!")
+            .attr("class", "breadcrumb")
+            .text(star.name)
+            .click(function(){ renderPlanetarySystem(target, star); }));
 
         var starLabel = jQuery("<div/>")
                 .attr("class", "star-label cursor")
@@ -198,7 +209,7 @@ window.planetarySystemVisualization = (function () {
                 .attr("class", "tooltipped planet cursor")
                 .attr("src", "./" + planet.image)
                 .attr("data-position", "bottom")
-                .attr("data-tooltip", planet.name + " (" + planet.className + ")")
+                .attr("data-tooltip", planet.name + ((!planet.className) ? "" : " (" + planet.className + ")"))
                 .css("transform", "rotate(" + ((typeof planet.axialTilt === "undefined") ? 0 : planet.axialTilt.value) + "deg)")
                 .css("margin-bottom", bottomOffset)
                 .height(dim)

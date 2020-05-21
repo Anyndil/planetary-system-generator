@@ -20,9 +20,23 @@ body > div.header > h3 > a.roll-button {
 .italic { font-style: italic; }
 .float-right { float: right; }
 
+div.container.site-info {
+    margin-top: 60px;
+}
+
 /* Visualization */
 div.visualization-container {
     margin: 0px 40px 20px 40px;
+}
+
+div.visualization-container nav,
+div.visualization-container div.nav-wrapper {
+    line-height: 2em;
+    height: 2em;
+}
+
+div.visualization-container nav {
+    padding: 0px 4px 0px 4px;
 }
 
 .group-label,

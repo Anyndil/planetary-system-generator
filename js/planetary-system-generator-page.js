@@ -34,6 +34,9 @@ function handleRoll(event) {
     planetarySystem = planetarySystemGenerator.generateSystem();
 
     renderAll();
+
+    // Hide Instructions
+    jQuery("div.container.instructions").addClass("hidden");
 }
 
 /*
@@ -60,9 +63,9 @@ function renderAll() {
 
     planetarySystemVisualization.renderStellarGroups("#systemVis", planetarySystem);
 
-    jQuery("#visRefreshButton").removeClass("hidden");
+    jQuery("#visRefreshButton,div.visualization-container").removeClass("hidden");
 
-    outputData();
+    //outputData();
 }
 
 /*
