@@ -1,0 +1,55 @@
+<h5>Quick Summary</h5>
+<!-- Name -->
+<div class="row">
+    <div class="col s2">System Name</div>
+    <div class="col s8">{{name}}</div>
+</div>
+<!-- System Type -->
+<div class="row">
+    <div class="col s2">System Type</div>
+    <div class="col s8">{{type.name}}</div>
+</div>
+<!-- Stats -->
+<div class="row">
+    <div class="col s2">Star Groups</div>
+    <div class="col s8">{{stats.starGroups}}</div>
+</div>
+<!-- Planet Details -->
+<div class="row">
+    <div class="col s2">Planets</div>
+    <div class="col s1">{{stats.planetCount}}</div>
+    <div class="col s7">
+        {{#each stats.planets}}
+        <div class="chip tooltipped{{#if class}} {{class}} lighten-3{{/if}}" data-position="bottom" data-tooltip="{{desc}}">{{name}} | {{total}}</span></div>
+        {{/each}}
+    </div>
+</div>
+<!-- Moon Details -->
+<div class="row">
+    <div class="col s2">Moons</div>
+    <div class="col s1">{{stats.moonCount}}</div>
+    <div class="col s7">
+        {{#each stats.moons}}
+        <div class="chip tooltipped{{#if class}} {{class}} lighten-3{{/if}}" data-position="bottom" data-tooltip="{{desc}}">{{name}} | {{total}}</div>
+        {{/each}}
+    </div>
+</div>
+<!-- Resource Rich -->
+<div class="row">
+    <div class="col s2">Resource Rich</div>
+    <div class="col s8">{{stats.resourceRichCount}}</div>
+</div>
+<!-- Life -->
+<div class="row">
+    <div class="col s2">Life</div>
+    <div class="col s8">{{stats.lifeCount}}</div>
+</div>
+<div class="row">
+    <div class="col s2">Sentient Life</div>
+    <div class="col s8">{{stats.sentientCount}}</div>
+</div>
+<!-- Oort Cloud -->
+<div class="row">
+    <div class="col s2">Oort Cloud</div>
+    <div class="col s8">{{oortCloud.type}}</div>
+</div>

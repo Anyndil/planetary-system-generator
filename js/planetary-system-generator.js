@@ -40,29 +40,29 @@ window.planetarySystemGenerator = (function () {
     };
 
     var imagePath = {
-        "planet.class.a": "image/planets/class-a/",
-        "planet.class.b": "image/planets/class-b/",
-        "planet.class.c": "image/planets/class-c/",
-        "planet.class.d": "image/planets/class-d/",
-        "planet.class.e": "image/planets/class-e/",
-        "planet.class.f": "image/planets/class-f/",
-        "planet.class.g": "image/planets/class-g/",
-        "planet.class.h": "image/planets/class-h/",
-        "planet.class.i": "image/planets/class-i/",
-        "planet.class.j": "image/planets/class-j/",
-        "planet.class.k": "image/planets/class-k/",
-        "planet.class.l": "image/planets/class-l/",
-        "planet.class.m": "image/planets/class-m/",
-        "planet.class.n": "image/planets/class-n/",
-        "planet.class.o": "image/planets/class-o/",
-        "planet.class.p": "image/planets/class-p/",
-        "planet.class.q": "image/planets/class-q/",
-        "planet.class.r": "image/planets/class-r/",
-        "planet.class.s": "image/planets/class-s/",
-        "planet.class.t": "image/planets/class-t/",
-        "planet.class.u": "image/planets/class-u/",
-        "planet.class.x": "image/planets/class-x/",
-        "planet.class.y": "image/planets/class-y/"
+        "planet.class.a": "./image/planets/class-a/",
+        "planet.class.b": "./image/planets/class-b/",
+        "planet.class.c": "./image/planets/class-c/",
+        "planet.class.d": "./image/planets/class-d/",
+        "planet.class.e": "./image/planets/class-e/",
+        "planet.class.f": "./image/planets/class-f/",
+        "planet.class.g": "./image/planets/class-g/",
+        "planet.class.h": "./image/planets/class-h/",
+        "planet.class.i": "./image/planets/class-i/",
+        "planet.class.j": "./image/planets/class-j/",
+        "planet.class.k": "./image/planets/class-k/",
+        "planet.class.l": "./image/planets/class-l/",
+        "planet.class.m": "./image/planets/class-m/",
+        "planet.class.n": "./image/planets/class-n/",
+        "planet.class.o": "./image/planets/class-o/",
+        "planet.class.p": "./image/planets/class-p/",
+        "planet.class.q": "./image/planets/class-q/",
+        "planet.class.r": "./image/planets/class-r/",
+        "planet.class.s": "./image/planets/class-s/",
+        "planet.class.t": "./image/planets/class-t/",
+        "planet.class.u": "./image/planets/class-u/",
+        "planet.class.x": "./image/planets/class-x/",
+        "planet.class.y": "./image/planets/class-y/"
     };
 
     var images = {
@@ -585,6 +585,7 @@ window.planetarySystemGenerator = (function () {
                 if(typeof moon.className == "undefined") { moon.className = moon.name; }
                 moon.name = planet.name + moonDesignation;
                 moonDesignation = resultHelper.nextChar(moonDesignation);
+                moon.image = getPlanetImage(moon.code);
             }
         });
     }

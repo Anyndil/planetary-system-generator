@@ -24,6 +24,46 @@ div.container.site-info {
     margin-top: 60px;
 }
 
+div#saveModal > div.modal-content,
+div#saveModal > div.modal-content > div.row,
+div#saveModal > div.modal-content > div.row > div.input-field {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+div#saveModal textarea { height: 120px; }
+
+/* Info */
+div#selectedObjectInfo {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 30px;
+    border: 2px solid black;
+    padding: 0px 30px 10px 30px;
+    margin-top: 20px;
+}
+
+div#selectedObjectInfo div.row,
+div#quickSummary > div.row {
+    margin-bottom: 5px;
+}
+
+.image-frame {
+    border: 4px solid #45b;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+.image-frame > img {
+    margin: 0px;
+    padding: 20px;
+}
+
+.starfield-bg {
+    background-image: url("../image/background/starfield.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
 /* Visualization */
 div.visualization-container {
     margin: 0px 40px 20px 40px;

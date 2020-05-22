@@ -12,11 +12,14 @@
     <script src="./lib/jquery/jquery-3.3.1.js" type="text/javascript"></script>
     <script src="./lib/materialize/js/materialize.js" type="text/javascript"></script>
     <script src="./lib/chance/chance-custom.js" type="text/javascript"></script>
+    <script src="./lib/handlebars/handlebars.js" type="text/javascript"></script>
+    <script src="./lib/handlebars-intl/handlebars-intl.js" type="text/javascript"></script>
 
     <!-- Helper Libraries -->
     <script src="./js/table-helper.js" type="text/javascript"></script>
     <script src="./js/roll-helper.js" type="text/javascript"></script>
     <script src="./js/result-helper.js" type="text/javascript"></script>
+    <script src="./js/handlebar-helper.js" type="text/javascript"></script>
 
     <!-- Generator Code and Supporting Custom Libraries -->
     <script src="./js/system-name-generator.js" type="text/javascript"></script>
@@ -53,8 +56,8 @@
 
             <!-- Dropdown Structure -->
             <ul id="mainMenu" class="dropdown-content">
-                <li><a class="save-button" href="#!">Save</a></li>
-                <li><a class="load-button" href="#!">Load</a></li>
+                <li><a class="save-dialog-button" href="#!">Save</a></li>
+                <li><a class="load-dialog-button" href="#!">Load</a></li>
             </ul>
 
             <!-- Roll Button -->
@@ -65,7 +68,7 @@
     <!-- Instructions -->
     <div class="container instructions white-text">
         <div class="bold">Instructions:</div>
-        <div>Click the Roll(<i class="material-icons tiny">casino</i>) button in the top-right corner of the window next to the menu. This will generate a random star system. Click the stars/planets to get more information.</div>
+        <div>Click the Roll(<i class="material-icons tiny">casino</i>) button in the top-right corner of the window next to the menu. This will generate a random star system. Click the stars/planets/moon to "zoom" into the local system or get more information.</div>
     </div>
 
     <!-- Visualization Container -->
@@ -80,6 +83,12 @@
         <!-- <a id="visRefreshButton" class="btn-floating btn blue waves-effect waves-light float-right hidden"><i class="material-icons">arrow_back</i></a> -->
         <div id="systemVis"></div>
     </div>
+
+    <div id="selectedObjectInfo" class="container"></div>
+
+    <!-- Info Container -->
+    <ul class="collapsible hidden">
+    </ul>
 
     <!-- Site Info -->
     <div class="container site-info italic white-text">
@@ -99,6 +108,35 @@
     <div class="container disclaimer italic white-text">
         <div class="bold">Disclaimer:</div>
         <div>This site is not endorsed, sponsored or affiliated with CBS Studios Inc., Paramount Pictures, or the STAR TREK franchise. The Star Trek&copy; franchise and related logos are owned and a registered trademark of Paramount Pictures & CBS Studios Inc. Star Trek&copy;, Star Trek: The Next Generation&copy;, Star Trek: Deep Space Nine&copy;, Star Trek: Voyager&copy;, Star Trek: Enterprise&copy;, Star Trek: Discovery&copy;, and Star Trek: Picard&copy; are Trademarks of Paramount Pictures/CBS Television.</div>
+    </div>
+
+    <!-- Dialogs -->
+    <div id="loadModal" class="modal">
+        <div class="modal-content">
+            <h5>Load</h5>
+            <div class="row">
+                <div class="input-field col s12">
+                    <textarea id="data"></textarea>
+                    <label for="data">JSON Data</label>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-close waves-effect waves-light btn-flat load-button">Load</a>
+            <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cancel</a>
+        </div>
+    </div>
+
+    <div id="saveModal" class="modal">
+        <div class="modal-content">
+            <h5>Save Data</h5>
+            <div class="row">
+                <div class="input-field col s12 data-div"><textarea></textarea></div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-close waves-effect waves-green btn-flat">OK</a>
+        </div>
     </div>
 </body>
 </html>

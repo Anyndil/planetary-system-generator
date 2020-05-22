@@ -1,0 +1,49 @@
+<h5>{{name}}</h5>
+<div class="row">
+    <div class="col s7">
+        <!-- <div class="row"><div class="col s4">Name:</div><div class="col s6 star-name">{{name}}</div></div> -->
+        <div class="row"><div class="col s4 bold">Type:</div><div class="col s6 star-type">{{type.name}}: {{type.details}}</div></div>
+        <div class="row"><div class="col s4 bold">Class:</div><div class="col s6 star-class">{{class.name}}</div></div>
+        <div class="row"><div class="col s4 bold">Orbital Separation:</div><div class="col s6 star-class">{{orbitalSeparation.name}}</div></div>
+        <div class="row"><div class="col s4 bold"></div><div class="col s6 star-class">{{orbitalSeparation.distance}} au</div></div>
+        <div class="row"><div class="col s4 bold">Surface Temperature:</div><div class="col s6 star-temp">{{formatNumber surfaceTemperature}}&deg K</div></div>
+        <div class="row"><div class="col s4 bold">Color:</div><div class="col s6 star-color">{{color}}</div></div>
+        <div class="row"><div class="col s4 bold">Luminosity:</div><div class="col s6 star-lum">{{formatNumber luminosity}} L<sub>☉</sub></div></div>
+        <div class="row"><div class="col s4 bold">Mass:</div><div class="col s6 star-mass">{{formatNumber mass}} M<sub>☉</sub></div></div>
+        <div class="row"><div class="col s4 bold">Radius:</div><div class="col s6 star-radius">{{formatNumber radius}} R<sub>☉</sub></div></div>
+        <div class="row"><div class="col s4 bold">Composition:</div><div class="col s6 star-comp">{{composition}}</div></div>
+        <!-- <div class="row"><a class="waves-effect waves-light btn roll-button">Roll</a></div> -->
+    </div>
+    <div class="col s5">
+        <div class="right image-frame starfield-bg"><img class="right responsive-img" style="transform: rotate({{rotate}}deg);" src="{{info.image}}"></div>
+    </div>
+</div>
+<div class="row"><div class="col s2 bold">Planetary Orbits:</div></div>
+<div class="row z-depth-2"><div class="col s11">
+    <table>
+        <thead>
+            <tr>
+                <th class="bold">Position</th>
+                {{#each orbits.series}}
+                <th>{{position}}</th>
+                {{/each}}
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="bold">Distance (au)</td>
+                {{#each orbits.series}}
+                <td>{{distance}}</td>
+                {{/each}}
+            </tr>
+            <tr>
+                <td class="bold">Zone</td>
+                {{#each orbits.series}}
+                <td>{{zone}}</td>
+                {{/each}}
+            </tr>
+        </tbody>
+    </table>
+</div></div>
+<div class="row no-margin info-container"><div class="col s2 bold">Info:</div></div>
+<div class="row no-margin"><div class="col s11 star-info">{{{info.info}}}</div></div>
