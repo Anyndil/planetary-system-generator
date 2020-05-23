@@ -13,6 +13,26 @@ var templates = {
         source: "./template/system-summary.hbs",
         template: null
     },
+    starGroups: {
+        source: "./template/star-groups.hbs",
+        template: null,
+    },
+    starTable: {
+        source: "./template/star-table.hbs",
+        template: null,
+    },
+    planetTable: {
+        source: "./template/planet-table.hbs",
+        template: null,
+    },
+    lifeTable: {
+        source: "./template/life-table.hbs",
+        template: null
+    },
+    resourceTable: {
+        source: "./template/resource-table.hbs",
+        template: null
+    },
     starInfo: {
         source: "./template/star-info.hbs",
         template: null,
@@ -26,6 +46,9 @@ var templates = {
         template: null,
     }
 };
+
+// JSON Viewer
+var jsonViewer = new JSONViewer();
 
 /*
  * Page initialization method.
@@ -43,11 +66,19 @@ function init() {
 
     jQuery("a.load-dialog-button").click(openLoadDataPopup);
     jQuery("a.save-dialog-button").click(openSaveDataPopup);
+    jQuery("a.data-viewer-button").click(openDataViewerPopup);
+
 
     jQuery("a.roll-button,a.roll-icon").click(handleRoll);
     jQuery("a.load-button").click(loadData);
 
     jQuery("a#visRefreshButton").click(function(){ planetarySystemVisualization.renderStellarGroups("#systemVis", planetarySystem); });
+
+    // JSON Viewer
+    jQuery("div#dataModal div.modal-content").append(jsonViewer.getContainer());
+
+    // Init Tabs
+    jQuery(".tabs").tabs();
 
     // INIT Modals
     jQuery(".modal").modal();
@@ -74,16 +105,18 @@ function loadData() {
     renderAll();
 }
 
+/*
+ * Render all Elements
+ */
 function renderAll() {
     renderSummary();
+    renderStarGroups();
+    renderStarTable();
+    renderPlanets();
+    renderPointsOfInterest();
 
     // renderSystemName();
     // renderSystemType();
-    // renderStarTable();
-    // renderStarGroups();
-    // renderPlanets();
-    // renderLifeTable();
-    // renderResourceTable();
 
     planetarySystemVisualization.renderStellarGroups("#systemVis", planetarySystem);
 
@@ -95,45 +128,62 @@ function renderAll() {
     jQuery("div.container.instructions").addClass("hidden");
 }
 
+/*
+ * Render System Summary
+ */
 function renderSummary() {
-    jQuery("div#selectedObjectInfo").empty()
+    jQuery("div#infoSummary").empty()
         .append(templates.systemSummary.template(planetarySystem))
         .find("div.tooltipped").tooltip();
+
+
+    jQuery(".tabs").tabs("select", "infoSummary");
+    jQuery("div.info-container").removeClass("hidden");
+}
+
+/*
+ * Render Stellar Group Info
+ */
+function renderStarGroups() {
+    jQuery("div#infoStellarGroups").empty()
+        .append(templates.starGroups.template(planetarySystem));
+}
+
+/*
+ * Render Star Table
+ */
+function renderStarTable() {
+    jQuery("div#infoStars").empty()
+        .append(templates.starTable.template(planetarySystem));
+}
+
+/*
+ * Render Planet Table
+ */
+function renderPlanets() {
+    jQuery("div#infoPlanets").empty()
+        .append(templates.planetTable.template(planetarySystem));
+}
+
+function renderPointsOfInterest() {
+    jQuery("div#infoPointsOfInterest").empty()
+        .append(templates.resourceTable.template(planetarySystem.stats.resourceRich))
+        .append(templates.lifeTable.template(planetarySystem.stats.life));
 }
 
 function renderStarInfo(star) {
     jQuery("div#selectedObjectInfo").empty().append(templates.starInfo.template(star));
-    // jQuery("div#starModal").modal('open');
+    jQuery(".tabs").tabs("select", "selectedObjectInfo");
 }
 
 function renderPlanetInfo(planet) {
     jQuery("div#selectedObjectInfo").empty().append(templates.planetInfo.template(planet));
-    // jQuery("div#planetModal div.satellites table td").click(moonPopup);
-    // jQuery("div#planetModal").modal('open');
+    jQuery(".tabs").tabs("select", "selectedObjectInfo");
 }
 
 function renderMoonInfo(satellite) {
     jQuery("div#selectedObjectInfo").empty().append(templates.moonInfo.template(satellite));
-
-    // var row = jQuery(this).closest("tr");
-    // var id = row.find("input[name=planetId],input[name=moonId]").val();
-    // var parentId = row.find("input[name=parentId]").val();
-    // var parentType = row.find("input[name=parentType]").val();
-    // var baseType = row.find("input[name=baseType]").val();
-    // var baseId = row.find("input[name=baseId]").val();
-    //
-    // if(baseType == "star") {
-    //     jQuery("div#moonModal > div.modal-content").empty()
-    //         .append(templates.moonInfo.template(
-    //             planetarySystemGenerator.data.planetarySystem.stars[baseId].planets[parentId].satellites[id]));
-    // }
-    // else if(baseType == "group") {
-    //     jQuery("div#moonModal > div.modal-content").empty()
-    //         .append(templates.moonInfo.template(
-    //             planetarySystemGenerator.data.planetarySystem.starGroup[baseId].planets[parentId].satellites[id]));
-    // }
-    //
-    // jQuery("div#moonModal").modal('open');
+    jQuery(".tabs").tabs("select", "selectedObjectInfo");
 }
 
 /*
@@ -154,6 +204,14 @@ function openSaveDataPopup() {
         jQuery("div#saveModal div.data-div textarea").remove();
         jQuery("div#saveModal div.data-div").append("<textarea></textarea>");
     });
+}
+
+/*
+ * Data Viewer to Inspect JSON Data
+ */
+function openDataViewerPopup() {
+    jsonViewer.showJSON(planetarySystem, -1, 1);
+    jQuery("div#dataModal").modal("open");
 }
 
 // On Page Ready call Init Method

@@ -6,6 +6,7 @@
     <!-- Compiled and minified CSS -->
     <link href="./lib/materialize/css/materialize.css" rel="stylesheet">
     <link href="./lib/iconfont/material-icons.css" rel="stylesheet">
+    <link href="./lib/json-viewer/json-viewer.css" rel="stylesheet">
     <link href="./css/planetary-system-generator.css" rel="stylesheet">
 
     <!-- Compiled and minified JavaScript -->
@@ -14,6 +15,7 @@
     <script src="./lib/chance/chance-custom.js" type="text/javascript"></script>
     <script src="./lib/handlebars/handlebars.js" type="text/javascript"></script>
     <script src="./lib/handlebars-intl/handlebars-intl.js" type="text/javascript"></script>
+    <script src="./lib/json-viewer/json-viewer.js" type="text/javascript"></script>
 
     <!-- Helper Libraries -->
     <script src="./js/table-helper.js" type="text/javascript"></script>
@@ -58,6 +60,7 @@
             <ul id="mainMenu" class="dropdown-content">
                 <li><a class="save-dialog-button" href="#!">Save</a></li>
                 <li><a class="load-dialog-button" href="#!">Load</a></li>
+                <li><a class="data-viewer-button" href="#!">Data Viewer</a></li>
             </ul>
 
             <!-- Roll Button -->
@@ -84,23 +87,38 @@
         <div id="systemVis"></div>
     </div>
 
-    <div id="selectedObjectInfo" class="container"></div>
-
     <!-- Info Container -->
-    <ul class="collapsible hidden">
-    </ul>
+    <div class="row info-container hidden">
+        <div class="col s12">
+            <ul class="tabs grey darken-4">
+                <li class="tab col s2"><a href="#infoSummary" class="active">Summary</a></li>
+                <li class="tab col s2"><a href="#infoStellarGroups">Stellar Groups</a></li>
+                <li class="tab col s2"><a href="#infoStars">Stars</a></li>
+                <li class="tab col s2"><a href="#infoPlanets">Planets</a></li>
+                <li class="tab col s2"><a href="#infoPointsOfInterest">Points of Interest</a></li>
+                <!-- <li class="tab col s1"><a href="#infoLife">Life</a></li> -->
+                <li class="tab col s2"><a href="#selectedObjectInfo">Selected Object</a></li>
+            </ul>
+        </div>
+        <div id="infoSummary" class="col s12 tab-contents"></div>
+        <div id="infoStellarGroups" class="col s12 tab-contents"></div>
+        <div id="infoStars" class="col s12 tab-contents"></div>
+        <div id="infoPlanets" class="col s12 tab-contents"></div>
+        <div id="infoPointsOfInterest" class="col s12 tab-contents"></div>
+        <div id="selectedObjectInfo" class="col s12 tab-contents"></div>
+    </div>
 
     <!-- Site Info -->
     <div class="container site-info italic white-text">
         <div class="bold">Info:</div>
-        <div>This generator has seen may different versions and platforms over the years. Source may be found on <a href="https://github.com/Anyndil/planetary-system-generator">GitHub</a>.</div>
+        <div>This generator has seen may different versions and platforms over the years.</div>
     </div>
 
     <!-- Acknowledgements -->
     <div class="container acknowledgements italic white-text">
         <div class="bold">Acknowledgements:</div>
         <div>Credit for star, planet, and background images goes to Chris Adamek over at <a href="http://sttff.net">sttff.net</a>.</div>
-        <div>Credit for some of the information found here goes to <a href="https://memory-alpha.fandom.com/">Memory Alpha</a></div>
+        <div>Credit for some of the information found here goes to <a href="https://memory-alpha.fandom.com/">Memory Alpha</a> and <a href="http://sttff.net">sttff.net</a>.</div>
         <div>Generator concepts were inspired by the Star Trek Roleplaying Game published by Decipher, Inc. (2002)</div>
     </div>
 
@@ -133,6 +151,15 @@
             <div class="row">
                 <div class="input-field col s12 data-div"><textarea></textarea></div>
             </div>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-close waves-effect waves-green btn-flat">OK</a>
+        </div>
+    </div>
+
+    <div id="dataModal" class="modal">
+        <div class="modal-content">
+            <h5>Data Viewer</h5>
         </div>
         <div class="modal-footer">
             <a href="#!" class="modal-close waves-effect waves-green btn-flat">OK</a>

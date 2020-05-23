@@ -1,0 +1,28 @@
+<div><span class="bold">Orbital Separation: </span>Distance between stellar groups.</div>
+<div><span class="bold">Stellar Separation: </span>Distance between other stars in stellar group.</div>
+<table class="highlight">
+    <thead>
+        <tr>
+            <th>Group Name</th>
+            <th>Star Name</th>
+            <th>Luminosity</th>
+            <th>Mass</th>
+            <th>Orbital Separation</th>
+            <th>Stellar Separation</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each starGroup}}
+        {{#each stars}}
+        <tr>
+            <td>{{../name}}</td>
+            <td>{{name}}</td>
+            <td>{{formatNumber ../luminosity}} L<sub>☉</sub></td>
+            <td>{{formatNumber ../mass}} M<sub>☉</sub></td>
+            <td>{{formatNumber orbitalSeparation.distance}} au</td>
+            <td>{{formatNumber ../stellarSeparation}} au</td>
+        </tr>
+        {{/each}}
+        {{/each}}
+    </tbody>
+</table>

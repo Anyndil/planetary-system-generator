@@ -34,17 +34,21 @@ div#saveModal > div.modal-content > div.row > div.input-field {
 div#saveModal textarea { height: 120px; }
 
 /* Info */
-div#selectedObjectInfo {
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 30px;
-    border: 2px solid black;
-    padding: 0px 30px 10px 30px;
-    margin-top: 20px;
-}
+div.info-container { margin: 20px 40px 20px 40px; }
+div.info-container div.tab-contents { padding: 20px 20px 20px 20px; }
+div.info-container div.tab-contents div.row { margin-bottom: 5px; }
 
-div#selectedObjectInfo div.row,
-div#quickSummary > div.row {
-    margin-bottom: 5px;
+/* Tab Color */
+div.info-container ul.tabs > li.tab a { color: #FFF; }
+div.info-container ul.tabs > li.tab a.active { color: #FFF; }
+div.info-container ul.tabs > li.tab a:hover { color: #FFF; }
+div.info-container ul.tabs > li.tab a:focus { background-color: rgba(255, 255, 255, 0.1); }
+div.info-container ul.tabs > li.tab a:focus.active { background-color: rgba(255, 255, 255, 0.1); }
+div.info-container ul.tabs .indicator  { background-color: #FFF; }
+
+div.info-container > div.tab-contents {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 0px 0px 0px 11px !important;
 }
 
 .image-frame {
@@ -84,6 +88,10 @@ div.visualization-container nav {
 .view-title {
     color: white;
     font-weight: bold;
+}
+
+#systemVis {
+    
 }
 
 #systemVis .planet{

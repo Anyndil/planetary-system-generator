@@ -41,8 +41,8 @@ window.planetarySystemVisualization = (function () {
                     .append(jQuery("<a/>")
                     .attr("href", "#!")
                     .attr("class", "breadcrumb")
-                    .attr("data", data.name)
-                    .text(data.name)
+                    .attr("data", "System: " + data.name)
+                    .text("[System] " + data.name)
                     .click(function(){ renderStellarGroups(target, data); }));
             }
             else {
@@ -83,8 +83,8 @@ window.planetarySystemVisualization = (function () {
                 breadcrumbContainer.append(jQuery("<a/>")
                     .attr("href", "#!")
                     .attr("class", "breadcrumb")
-                    .attr("data", group.name)
-                    .text(group.name)
+                    .attr("data", "Group: " + group.name)
+                    .text("[Group] " + group.name)
                     .click(function(){
                         vis.empty();
                         breadcrumbContainer.find("a[data=\"" + group.name + "\"]").nextAll().remove();
@@ -104,7 +104,7 @@ window.planetarySystemVisualization = (function () {
         //         .attr("id", "stellarGroupPlanets" + context.i)
         //         .attr("class", "stellar-group-planets right-align");
 
-        var groupLabel = jQuery("<div/>")
+        var groupLabel = jQuery("<h5/>")
                 .attr("class", "group-label cursor")
                 .attr("data-name", group.name)
                 .text(group.name)
@@ -192,15 +192,15 @@ window.planetarySystemVisualization = (function () {
             breadcrumbContainer.append(jQuery("<a/>")
                 .attr("href", "#!")
                 .attr("class", "breadcrumb")
-                .attr("data", star.name)
-                .text(star.name)
+                .attr("data", "Star: " + star.name)
+                .text("[Star] " + star.name)
                 .click(function(){ renderPlanetarySystem(target, star); }));
         }
         else {
             breadcrumbEntry.nextAll().remove();
         }
 
-        var starLabel = jQuery("<div/>")
+        var starLabel = jQuery("<h5/>")
                 .attr("class", "star-label cursor")
                 .attr("data-name", star.name)
                 .text(star.name);
@@ -250,15 +250,15 @@ window.planetarySystemVisualization = (function () {
             breadcrumbContainer.append(jQuery("<a/>")
                 .attr("href", "#!")
                 .attr("class", "breadcrumb")
-                .attr("data", planet.name)
-                .text(planet.name)
+                .attr("data", "Planet: " + planet.name)
+                .text("[Planet] " + planet.name)
                 .click(function(){ renderLunarSystem(target, planet); }));
         }
         else {
             breadcrumbEntry.nextAll().remove();
         }
 
-        var planetLabel = jQuery("<div/>")
+        var planetLabel = jQuery("<h5/>")
                 .attr("class", "planet-label cursor")
                 .attr("data-name", planet.name)
                 .text(planet.name);

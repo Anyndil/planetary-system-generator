@@ -1,0 +1,45 @@
+<div class="row no-margin">
+    <div class="col s2 bold">Planet Count: </div>
+    <div class="col s1">{{planetCount}}</div>
+</div>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Zone</th>
+            <th>Class</th>
+            <th>Distance</th>
+            <th>Satellites</th>
+        </tr>
+    </thead>
+    <tbody>
+    {{#each stars}}
+        {{#each planets}}
+        <tr>
+            <input type="hidden" name="parentType" value="{{parentType}}" />
+            <input type="hidden" name="parentId" value="{{@../index}}" />
+            <input type="hidden" name="planetId" value="{{@index}}" />
+            <td>{{name}}</td>
+            <td class="{{replace zone "black" "grey"}} lighten-5 bold">{{zone}}</td>
+            <td>{{#if className}}{{className}}, {{/if}}{{classification}}</td>
+            <td>{{distance}} au</td>
+            <td>{{satelliteCount}}</td>
+        </tr>
+        {{/each}}
+    {{/each}}
+    {{#each starGroup}}
+        {{#each planets}}
+        <tr>
+            <input type="hidden" name="parentType" value="{{parentType}}" />
+            <input type="hidden" name="parentId" value="{{@../index}}" />
+            <input type="hidden" name="planetId" value="{{@index}}" />
+            <td>{{name}}</td>
+            <td class="{{replace zone "black" "grey"}} lighten-5 bold">{{zone}}</td>
+            <td>{{#if className}}{{className}}, {{/if}}{{classification}}</td>
+            <td>{{distance}} au</td>
+            <td>{{satelliteCount}}</td>
+        </tr>
+        {{/each}}
+    {{/each}}
+    </tbody>
+</table>

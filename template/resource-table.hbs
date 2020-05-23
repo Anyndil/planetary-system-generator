@@ -1,0 +1,31 @@
+<h5>Resources</h5>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Class</th>
+            <th>Gravity</th>
+            <th>Day Length</th>
+            <th>Atmosphere</th>
+            <th>Weather</th>
+            <th>Temperature</th>
+            <th>Tectonic Activity</th>
+            <th>Resource Level</th>
+        </tr>
+    </thead>
+    <tbody>
+    {{#each this}}
+        <tr>
+            <td>{{name}}</td>
+            <td>{{className}}, {{classification}}</td>
+            <td>{{formatNumber gravity}} g</td>
+            <td>{{formatNumber dayLength}} hours</td>
+            <td>{{atmosphere.name}}, {{atmosphere.density}} D<sub>⊕</sub></td>
+            <td>{{weather}}</td>
+            <td>{{#if temperature.name}}{{temperature.name}}, {{/if}}{{formatNumber temperature.celsius}}&deg;C / {{formatNumber temperature.fahrenheit}}&deg;F</td>
+            <td>{{tectonicActivity}}</td>
+            <td>{{density.name}}</td>
+        </tr>
+    {{/each}}
+    </tbody>
+</table>
