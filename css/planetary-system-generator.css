@@ -85,13 +85,20 @@ div.visualization-container nav {
 
 .group-label,
 .star-label,
+.planet-label,
 .view-title {
     color: white;
     font-weight: bold;
 }
 
+.planet-ring {
+    position: absolute;
+    left: -180px;
+    top: 266px;
+}
+
 #systemVis {
-    
+
 }
 
 #systemVis .planet{

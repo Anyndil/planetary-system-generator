@@ -3,12 +3,16 @@
  */
 
 window.planetarySystemVisualization = (function () {
+    var localChance = new Chance(new Date());
+
     var config = {
         maxDim: 340,
         maxPlanetDim: 200,
         maxSatelliteDim: 50,
         minDim: 20
     };
+
+    var ringImage = ["./image/planets/rings/ring01.png", "./image/planets/rings/ring02.png", "./image/planets/rings/ring03.png"]
 
     function init() {
 
@@ -20,7 +24,7 @@ window.planetarySystemVisualization = (function () {
     function renderStellarGroups(target, data, context) {
         var vis = jQuery(target);
         var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
-        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"" + data.name + "\"]");
+        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"System: " + data.name + "\"]");
 
         renderSummary();
 
@@ -63,7 +67,7 @@ window.planetarySystemVisualization = (function () {
     function renderStellarGroup(target, group, context) {
         var vis = jQuery(target);
         var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
-        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"" + group.name + "\"]");
+        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"Group: " + group.name + "\"]");
 
         renderSummary();
 
@@ -87,7 +91,7 @@ window.planetarySystemVisualization = (function () {
                     .text("[Group] " + group.name)
                     .click(function(){
                         vis.empty();
-                        breadcrumbContainer.find("a[data=\"" + group.name + "\"]").nextAll().remove();
+                        breadcrumbContainer.find("a[data=\"Group: " + group.name + "\"]").nextAll().remove();
                         renderStellarGroup(target, group, context); }));
             }
             else {
@@ -173,7 +177,7 @@ window.planetarySystemVisualization = (function () {
     function renderPlanetarySystem(target, star) {
         var vis = jQuery(target);
         var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
-        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"" + star.name + "\"]");
+        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"Star: " + star.name + "\"]");
 
         var planetRadiusMax = getLargestPlanetRadius(star.planets);
         var planetarySystemScale = 1;
@@ -231,7 +235,7 @@ window.planetarySystemVisualization = (function () {
     function renderLunarSystem(target, planet) {
         var vis = jQuery(target);
         var breadcrumbContainer = vis.siblings("nav").find("div.nav-wrapper > div.col");
-        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"" + planet.name + "\"]");
+        var breadcrumbEntry = breadcrumbContainer.find("a[data=\"Planet: " + planet.name + "\"]");
 
         renderSummary();
 
@@ -268,7 +272,7 @@ window.planetarySystemVisualization = (function () {
                 .attr("src", "./" + planet.image)
                 .attr("data-position", "bottom")
                 .attr("data-tooltip", planet.name)
-                .css("transform", "rotate(" + Math.floor(Math.random() * 360) + "deg)")
+                .css("transform", "rotate(" + ((typeof planet.axialTilt === "undefined") ? 0 : planet.axialTilt.value) + "deg)")
                 .height(config.maxDim)
                 .width(config.maxDim)
                 .click(function(){
@@ -278,6 +282,18 @@ window.planetarySystemVisualization = (function () {
         vis.append(planetLabel)
            .append(planetElement);
 
+        // Check for and Render Rings
+        if(hasRings(planet)) {
+           var satelliteElement = jQuery("<img />")
+                   .attr("class", "planet-ring")
+                   .attr("src", "./" + ringImage[localChance.natural({ min: 0, max: (ringImage.length - 1) })])
+                   .attr("data-position", "bottom")
+                   .css("transform", "rotate(20deg)");
+
+           target.append(satelliteElement);
+        }
+
+       // Render Moons
        planet.satellites.forEach((satellite, k) => { renderSatellite(vis, satelliteRadiusMax, satellite, k); });
 
        vis.find(".tooltipped").tooltip();
@@ -322,6 +338,9 @@ window.planetarySystemVisualization = (function () {
      * Render planet
      */
     function renderSatellite(target, satelliteRadiusMax, satellite, k) {
+        // Escape if Rings
+        if(satellite.code == "planet.rings") { return; }
+
         // Calculate rendered scale based on relative size to largest.
         var dim = (satellite.planetaryRadius / satelliteRadiusMax) * config.maxSatelliteDim;
 
@@ -386,6 +405,15 @@ window.planetarySystemVisualization = (function () {
         });
 
         return largestRadius;
+    }
+
+    /*
+     * Returns whether the planet has rings.
+     */
+    function hasRings(planet) {
+        if(!planet.satellites) { return false; }
+
+        return planet.satellites.filter(satellite => satellite.code === "planet.rings").length > 0;
     }
 
     // Return Methods and Values
