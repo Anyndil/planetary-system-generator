@@ -69,7 +69,7 @@ window.planetarySystemGenerator = (function () {
         "planet.class.a": ["ClassA_Io.png", "ClassA_PlanetRender.png", "ClassA3.png", "ClassA4.png", "ClassAPlanet_Io.png", "RClassA1.png", "RClassA2.png", "RClassA3.png"],
         "planet.class.b": ["ClassB17.png", "ClassB17d.png", "ClassB17e.png", "RClassB1.png"],
         "planet.class.c": ["ClassC8.png", "ClassC9.png", "ClassC10.png", "ClassC17.png", "ClassC17a.png", "ClassC17b.png", "ClassC17c.png", "ClassC17d.png", "RClassC1.png", "RClassC2.png", "RClassC4.png"],
-        "planet.class.d": ["ClassD_02.png", "ClassD_03.png", "ClassD_Pluto.png", "RClassD1.png", "RClassD2.png", "RClassD3.png", "RClassD4.png", "RClassD5.png"],
+        "planet.class.d": ["ClassD_02.png", "ClassD_03.png", "ClassD_Pluto.png", "RClassD1.png", "RClassD2.png", "RClassD3.png", "RClassD4.png", "RClassD5.png", "RClassD6.png"],
         "planet.class.e": ["ClassE_01.png", "E_Class02.png", "E_Class03.png", "RClassE1.png"],
         "planet.class.f": ["ClassF_01.png", "ClassF_02.png", "ClassF_02b.png", "ClassF_03.png", "RClassF1.png"],
         "planet.class.g": ["ClassG_01.png", "ClassG_02.png", "ClassG_03.png", "ClassG_04.png", "RClassG1.png"],
