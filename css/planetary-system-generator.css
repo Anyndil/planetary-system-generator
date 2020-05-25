@@ -20,6 +20,13 @@ body > div.header > h3 > a.roll-button {
 .italic { font-style: italic; }
 .float-right { float: right; }
 
+div.instructions > p,
+div.site-info > p,
+div.acknowledgements > p,
+div.disclaimer > p {
+    margin: 0px 6px 0px 6px
+}
+
 div.container.site-info {
     margin-top: 60px;
 }
