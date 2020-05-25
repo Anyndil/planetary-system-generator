@@ -59,6 +59,12 @@ window.planetarySystemVisualization = (function () {
 
             renderStellarGroup(target, group, context);
         });
+
+        if(planetarySystem.type.code == "table.starSystem.singleStar" && data.starGroup.length == 1) {
+            vis.empty();
+            breadcrumbContainer.find("a[data=\"Group: " + data.starGroup[0].name + "\"]").nextAll().remove();
+            renderStellarGroup(target, data.starGroup[0], context);
+        }
     }
 
     /*
@@ -169,6 +175,8 @@ window.planetarySystemVisualization = (function () {
         vis.append(groupLabel)
            .append(groupElement)
            .find(".tooltipped").tooltip();
+
+       if(planetarySystem.type.code == "table.starSystem.singleStar" && group.stars.length == 1) { planetarySystemVisualization.renderPlanetarySystem(target, group.stars[0]); }
     }
 
     /*
