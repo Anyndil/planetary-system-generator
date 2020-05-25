@@ -297,6 +297,9 @@ window.planetarySystemVisualization = (function () {
        planet.satellites.forEach((satellite, k) => { renderSatellite(vis, satelliteRadiusMax, satellite, k); });
 
        vis.find(".tooltipped").tooltip();
+
+       // Clean-up
+       if(jQuery("div#systemVis h5.group-label, div#systemVis h5.planet-label").length > 1) { jQuery("div#systemVis h5.group-label").remove(); }
     }
 
     /*
