@@ -64,6 +64,7 @@ function init() {
     // Functionality
     jQuery("div.header a.dropdown-trigger").dropdown({ coverTrigger: false });
 
+    // jQuery("a.edit-name-dialog-button").click(editNamePopup);
     jQuery("a.load-dialog-button").click(openLoadDataPopup);
     jQuery("a.save-dialog-button").click(openSaveDataPopup);
     jQuery("a.data-viewer-button").click(openDataViewerPopup);
