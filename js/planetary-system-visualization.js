@@ -115,7 +115,7 @@ window.planetarySystemVisualization = (function () {
         //         .attr("class", "stellar-group-planets right-align");
 
         var groupLabel = jQuery("<h5/>")
-                .attr("class", "group-label cursor")
+                .attr("class", "group-label cursor-pointer")
                 .attr("data-name", group.name)
                 .text(group.name)
                 .click(function() {
@@ -141,7 +141,7 @@ window.planetarySystemVisualization = (function () {
             var bottomOffset = (config.maxDim / 2) - (dim / 2);
 
             var starElement = jQuery("<img />")
-                    .attr("class", "tooltipped star cursor")
+                    .attr("class", "tooltipped star cursor-pointer")
                     .attr("src", "./" + star.info.image)
                     .attr("data-name", star.name)
                     .attr("data-position", "bottom")
@@ -213,12 +213,12 @@ window.planetarySystemVisualization = (function () {
         }
 
         var starLabel = jQuery("<h5/>")
-                .attr("class", "star-label cursor")
+                .attr("class", "star-label cursor-pointer")
                 .attr("data-name", star.name)
                 .text(star.name);
 
         var starElement = jQuery("<img />")
-                .attr("class", "tooltipped star cursor")
+                .attr("class", "tooltipped star cursor-pointer")
                 .attr("src", "./" + star.info.image)
                 .attr("data-position", "bottom")
                 .attr("data-tooltip", star.name)
@@ -271,12 +271,12 @@ window.planetarySystemVisualization = (function () {
         }
 
         var planetLabel = jQuery("<h5/>")
-                .attr("class", "planet-label cursor")
+                .attr("class", "planet-label cursor-pointer")
                 .attr("data-name", planet.name)
                 .text(planet.name);
 
         var planetElement = jQuery("<img />")
-                .attr("class", "tooltipped planet cursor")
+                .attr("class", "tooltipped planet cursor-pointer")
                 .attr("src", "./" + planet.image)
                 .attr("data-position", "bottom")
                 .attr("data-tooltip", planet.name)
@@ -328,7 +328,7 @@ window.planetarySystemVisualization = (function () {
         var bottomOffset = (config.maxDim / 2) - (dim / 2);
 
         var planetElement = jQuery("<img />")
-                .attr("class", "tooltipped planet cursor")
+                .attr("class", "tooltipped planet cursor-pointer")
                 .attr("src", "./" + planet.image)
                 .attr("data-position", "bottom")
                 .attr("data-tooltip", planet.name + ((!planet.className) ? "" : " (" + planet.className + ")"))
@@ -366,7 +366,7 @@ window.planetarySystemVisualization = (function () {
         var bottomOffset = (config.maxDim / 2) - (dim / 2);
 
         var satelliteElement = jQuery("<img />")
-                .attr("class", "tooltipped planet cursor")
+                .attr("class", "tooltipped planet cursor-pointer")
                 .attr("src", "./" + satellite.image)
                 .attr("data-position", "bottom")
                 .attr("data-tooltip", satellite.name + ((!satellite.className) ? "" : " (" + satellite.className + ")"))

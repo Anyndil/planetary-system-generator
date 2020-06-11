@@ -19,6 +19,7 @@ body > div.header > h3 > a.roll-button {
 .bold { font-weight: bold; }
 .italic { font-style: italic; }
 .float-right { float: right; }
+.cursor-pointer { cursor: pointer; }
 
 div.instructions > p,
 div.site-info > p,
