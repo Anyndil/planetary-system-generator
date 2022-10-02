@@ -142,10 +142,10 @@ window.planetGenerator = (function () {
             return null;
         }
 
-        return planetGenerator.generatePlanet(planet, zone);
+        return initializePlanet(planet, zone);
     }
 
-    function generatePlanet(planet, zone) {
+    function initializePlanet(planet, zone) {
         var orbitRollModifier = 0;
 
         // Parent
@@ -218,7 +218,7 @@ window.planetGenerator = (function () {
             }
         };
 
-        return planetGenerator.generatePlanet(planet, zone);
+        return initializePlanet(planet, zone);
     }
 
     function getDayLength(planet) {
