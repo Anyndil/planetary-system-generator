@@ -136,7 +136,6 @@ window.planetGenerator = (function () {
         }
         else if(zone == "black") {
             planet = rollHelper.rollArray(planetGenerator.blackZoneTable);
-            orbitRollModifier++;
         }
         else {
             return null;
@@ -147,6 +146,9 @@ window.planetGenerator = (function () {
 
     function initializePlanet(planet, zone) {
         var orbitRollModifier = 0;
+        if(zone == "black") {
+            orbitRollModifier++;
+        }
 
         // Parent
         planet.result.parent = "star";
