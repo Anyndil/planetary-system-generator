@@ -528,11 +528,10 @@ window.planetarySystemGenerator = (function () {
 
             if((curPlanet.code == "planet.class.j" || curPlanet.code == "planet.class.s" || curPlanet.code == "planet.class.u")
                     && (prevPlanet.code != "planet.class.j" && prevPlanet.code != "planet.class.s" && prevPlanet.code != "planet.class.u")) {
-                planets[i-1] = planetGenerator.getAsteroidBelt().result;
+                planets[i-1] = planetGenerator.getAsteroidBelt(prevPlanet.zone).result;
                 planets[i-1].baseType = baseType;
                 planets[i-1].parentType = baseType;
                 planets[i-1].orbitalPeriod = 0;
-                planets[i-1].zone = prevPlanet.zone;
                 planets[i-1].distance = prevPlanet.distance;
             }
         }

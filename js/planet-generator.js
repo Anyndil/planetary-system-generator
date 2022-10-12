@@ -119,7 +119,6 @@ window.planetGenerator = (function () {
 
     function roll(zone) {
         var planet = null;
-        var orbitRollModifier = 0;
 
         if(typeof zone == "undefined" || zone == "") { return null; }
 
@@ -137,10 +136,18 @@ window.planetGenerator = (function () {
         }
         else if(zone == "black") {
             planet = rollHelper.rollArray(planetGenerator.blackZoneTable);
-            orbitRollModifier++;
         }
         else {
             return null;
+        }
+
+        return initializePlanet(planet, zone);
+    }
+
+    function initializePlanet(planet, zone) {
+        var orbitRollModifier = 0;
+        if(zone == "black") {
+            orbitRollModifier++;
         }
 
         // Parent
@@ -203,7 +210,7 @@ window.planetGenerator = (function () {
         return planet;
     }
 
-    function getAsteroidBelt() {
+    function getAsteroidBelt(zone) {
         var planet = {
             result: resultHelper.clone(planetGenerator.getTable().find(element => element.code == "planet.asteroidBelt")),
             roll: {
@@ -213,21 +220,7 @@ window.planetGenerator = (function () {
             }
         };
 
-        // Roll Details
-        planet.result.age = localChance.natural({min: planet.result.age_min, max: planet.result.age_max});
-        planet.result.density = planetFunctions.getDensity(planet.result), "";
-        planet.result.mass = 0;
-        planet.result.diameter = 0;
-        planet.result.radius = 0;
-        planet.result.planetaryRadius = 0;
-        planet.result.gravity = 0;
-        planet.result.orbit = planetFunctions.getOrbit({ total: 6 });
-        planet.result.inclination = planetFunctions.getInclination(planet.roll.inclination);
-        planet.result.satelliteCount = 0;
-        planet.result.atmosphere = { name: "None", code: "atmosphere.none", density: 0 };
-        planet.result.life = {name: "None", code: "life.none", order: 0};
-
-        return planet;
+        return initializePlanet(planet, zone);
     }
 
     function getDayLength(planet) {
