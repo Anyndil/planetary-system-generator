@@ -1,1 +1,90 @@
-[{"sc_class":"A","lc_class":"0","lc_desc":"Extreme Luminous Supergiant","mass_min":12.6,"mass_max":15.8,"luminosity_min":186000,"luminosity_max":280000,"radius_min":151,"radius_max":273},{"sc_class":"A","lc_class":"Ia","lc_desc":"Luminous Supergiant","mass_min":10.8,"mass_max":13.7,"luminosity_min":107000,"luminosity_max":238000,"radius_min":114,"radius_max":249},{"sc_class":"A","lc_class":"Ib","lc_desc":"Less Luminous Supergiant","mass_min":9,"mass_max":11.5,"luminosity_min":10200,"luminosity_max":15400,"radius_min":43.5,"radius_max":52},{"sc_class":"A","lc_class":"II","lc_desc":"Bright Giant","mass_min":7.1,"mass_max":9.4,"luminosity_min":970,"luminosity_max":2680,"radius_min":16.5,"radius_max":18.1},{"sc_class":"A","lc_class":"III","lc_desc":"Giant","mass_min":5.3,"mass_max":7.2,"luminosity_min":26.7,"luminosity_max":154,"radius_min":3.03,"radius_max":4.35},{"sc_class":"A","lc_class":"IV","lc_desc":"Subgiant","mass_min":3.5,"mass_max":5.1,"luminosity_min":14,"luminosity_max":88.8,"radius_min":2.2,"radius_max":3.3},{"sc_class":"A","lc_class":"V","lc_desc":"Main Sequence","mass_min":1.7,"mass_max":2.9,"luminosity_min":8.85,"luminosity_max":67.4,"radius_min":1.75,"radius_max":2.88},{"sc_class":"A","lc_class":"VI","lc_desc":"Subdwarf","mass_min":1.4,"mass_max":1.9,"luminosity_min":2.93,"luminosity_max":26.8,"radius_min":1,"radius_max":1.81}]
+[
+    {
+        "sc_class": "A",
+        "lc_class": "0",
+        "lc_desc": "Extreme Luminous Supergiant",
+        "mass_min": 12.6,
+        "mass_max": 15.8,
+        "luminosity_min": 186000,
+        "luminosity_max": 280000,
+        "radius_min": 151,
+        "radius_max": 273
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "Ia",
+        "lc_desc": "Luminous Supergiant",
+        "mass_min": 10.8,
+        "mass_max": 13.7,
+        "luminosity_min": 107000,
+        "luminosity_max": 238000,
+        "radius_min": 114,
+        "radius_max": 249
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "Ib",
+        "lc_desc": "Less Luminous Supergiant",
+        "mass_min": 9,
+        "mass_max": 11.5,
+        "luminosity_min": 10200,
+        "luminosity_max": 15400,
+        "radius_min": 43.5,
+        "radius_max": 52
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "II",
+        "lc_desc": "Bright Giant",
+        "mass_min": 7.1,
+        "mass_max": 9.4,
+        "luminosity_min": 970,
+        "luminosity_max": 2680,
+        "radius_min": 16.5,
+        "radius_max": 18.1
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "III",
+        "lc_desc": "Giant",
+        "mass_min": 5.3,
+        "mass_max": 7.2,
+        "luminosity_min": 26.7,
+        "luminosity_max": 154,
+        "radius_min": 3.03,
+        "radius_max": 4.35
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "IV",
+        "lc_desc": "Subgiant",
+        "mass_min": 3.5,
+        "mass_max": 5.1,
+        "luminosity_min": 14,
+        "luminosity_max": 88.8,
+        "radius_min": 2.2,
+        "radius_max": 3.3
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "V",
+        "lc_desc": "Main Sequence",
+        "mass_min": 1.7,
+        "mass_max": 2.9,
+        "luminosity_min": 8.85,
+        "luminosity_max": 67.4,
+        "radius_min": 1.75,
+        "radius_max": 2.88
+    },
+    {
+        "sc_class": "A",
+        "lc_class": "VI",
+        "lc_desc": "Subdwarf",
+        "mass_min": 1.4,
+        "mass_max": 1.9,
+        "luminosity_min": 2.93,
+        "luminosity_max": 26.8,
+        "radius_min": 1,
+        "radius_max": 1.81
+    }
+]

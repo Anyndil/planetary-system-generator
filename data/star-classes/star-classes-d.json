@@ -1,1 +1,13 @@
-[{"sc_class":"D","lc_class":"VII","lc_desc":"Dwarf","mass_min":0.1,"mass_max":1.1,"luminosity_min":6.73e-5,"luminosity_max":6.91,"radius_min":0.00696,"radius_max":0.00944}]
+[
+    {
+        "sc_class": "D",
+        "lc_class": "VII",
+        "lc_desc": "Dwarf",
+        "mass_min": 0.1,
+        "mass_max": 1.1,
+        "luminosity_min": 6.73e-5,
+        "luminosity_max": 6.91,
+        "radius_min": 0.00696,
+        "radius_max": 0.00944
+    }
+]

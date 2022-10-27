@@ -1,1 +1,62 @@
-[{"id":234,"roll":1,"name":"Thin","code":"table.atmosphereHighG.thin","type":"table.atmosphereHighG","value":null,"details":"Thin","subroll":null},{"id":235,"roll":2,"name":"Standard","code":"table.atmosphereHighG.standard","type":"table.atmosphereHighG","value":null,"details":"Standard","subroll":null},{"id":236,"roll":3,"name":"Standard","code":"table.atmosphereHighG.standard","type":"table.atmosphereHighG","value":null,"details":"Standard","subroll":null},{"id":237,"roll":4,"name":"Thick","code":"table.atmosphereHighG.thick","type":"table.atmosphereHighG","value":null,"details":"Thick","subroll":null},{"id":238,"roll":5,"name":"Thick","code":"table.atmosphereHighG.thick","type":"table.atmosphereHighG","value":null,"details":"Thick","subroll":null},{"id":239,"roll":6,"name":"Thick","code":"table.atmosphereHighG.thick","type":"table.atmosphereHighG","value":null,"details":"Thick","subroll":null}]
+[
+    {
+        "id": 234,
+        "roll": 1,
+        "name": "Thin",
+        "code": "table.atmosphereHighG.thin",
+        "type": "table.atmosphereHighG",
+        "value": null,
+        "details": "Thin",
+        "subroll": null
+    },
+    {
+        "id": 235,
+        "roll": 2,
+        "name": "Standard",
+        "code": "table.atmosphereHighG.standard",
+        "type": "table.atmosphereHighG",
+        "value": null,
+        "details": "Standard",
+        "subroll": null
+    },
+    {
+        "id": 236,
+        "roll": 3,
+        "name": "Standard",
+        "code": "table.atmosphereHighG.standard",
+        "type": "table.atmosphereHighG",
+        "value": null,
+        "details": "Standard",
+        "subroll": null
+    },
+    {
+        "id": 237,
+        "roll": 4,
+        "name": "Thick",
+        "code": "table.atmosphereHighG.thick",
+        "type": "table.atmosphereHighG",
+        "value": null,
+        "details": "Thick",
+        "subroll": null
+    },
+    {
+        "id": 238,
+        "roll": 5,
+        "name": "Thick",
+        "code": "table.atmosphereHighG.thick",
+        "type": "table.atmosphereHighG",
+        "value": null,
+        "details": "Thick",
+        "subroll": null
+    },
+    {
+        "id": 239,
+        "roll": 6,
+        "name": "Thick",
+        "code": "table.atmosphereHighG.thick",
+        "type": "table.atmosphereHighG",
+        "value": null,
+        "details": "Thick",
+        "subroll": null
+    }
+]

@@ -1,1 +1,8 @@
-[{"rollFunction":"chance.d6","iterations":2,"modifier":0,"multiplier":10}]
+[
+    {
+        "rollFunction": "chance.d6",
+        "iterations": 2,
+        "modifier": 0,
+        "multiplier": 10
+    }
+]

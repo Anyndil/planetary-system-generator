@@ -1,1 +1,112 @@
-[{"id":162,"roll":2,"name":"Trinary","code":"table.starSystem.trinary","type":"table.starSystem","value":3,"details":"Trinary","subroll":null},{"id":163,"roll":3,"name":"Trinary","code":"table.starSystem.trinary","type":"table.starSystem","value":3,"details":"Trinary","subroll":null},{"id":164,"roll":4,"name":"Single Star","code":"table.starSystem.singleStar","type":"table.starSystem","value":1,"details":"Single Star","subroll":null},{"id":165,"roll":5,"name":"Single Star","code":"table.starSystem.singleStar","type":"table.starSystem","value":1,"details":"Single Star","subroll":null},{"id":166,"roll":6,"name":"Single Star","code":"table.starSystem.singleStar","type":"table.starSystem","value":1,"details":"Single Star","subroll":null},{"id":167,"roll":7,"name":"Single Star","code":"table.starSystem.singleStar","type":"table.starSystem","value":1,"details":"Single Star","subroll":null},{"id":168,"roll":8,"name":"Binary","code":"table.starSystem.binary","type":"table.starSystem","value":2,"details":"Binary","subroll":null},{"id":169,"roll":9,"name":"Binary","code":"table.starSystem.binary","type":"table.starSystem","value":2,"details":"Binary","subroll":null},{"id":170,"roll":10,"name":"Binary","code":"table.starSystem.binary","type":"table.starSystem","value":2,"details":"Binary","subroll":null},{"id":171,"roll":11,"name":"Binary","code":"table.starSystem.binary","type":"table.starSystem","value":2,"details":"Binary","subroll":null},{"id":172,"roll":12,"name":"Four or More Stars","code":"table.starSystem.fourOrMoreStars","type":"table.starSystem","value":null,"details":"Four or More Stars","subroll":"roll.type.1d6"}]
+[
+    {
+        "id": 162,
+        "roll": 2,
+        "name": "Trinary",
+        "code": "table.starSystem.trinary",
+        "type": "table.starSystem",
+        "value": 3,
+        "details": "Trinary",
+        "subroll": null
+    },
+    {
+        "id": 163,
+        "roll": 3,
+        "name": "Trinary",
+        "code": "table.starSystem.trinary",
+        "type": "table.starSystem",
+        "value": 3,
+        "details": "Trinary",
+        "subroll": null
+    },
+    {
+        "id": 164,
+        "roll": 4,
+        "name": "Single Star",
+        "code": "table.starSystem.singleStar",
+        "type": "table.starSystem",
+        "value": 1,
+        "details": "Single Star",
+        "subroll": null
+    },
+    {
+        "id": 165,
+        "roll": 5,
+        "name": "Single Star",
+        "code": "table.starSystem.singleStar",
+        "type": "table.starSystem",
+        "value": 1,
+        "details": "Single Star",
+        "subroll": null
+    },
+    {
+        "id": 166,
+        "roll": 6,
+        "name": "Single Star",
+        "code": "table.starSystem.singleStar",
+        "type": "table.starSystem",
+        "value": 1,
+        "details": "Single Star",
+        "subroll": null
+    },
+    {
+        "id": 167,
+        "roll": 7,
+        "name": "Single Star",
+        "code": "table.starSystem.singleStar",
+        "type": "table.starSystem",
+        "value": 1,
+        "details": "Single Star",
+        "subroll": null
+    },
+    {
+        "id": 168,
+        "roll": 8,
+        "name": "Binary",
+        "code": "table.starSystem.binary",
+        "type": "table.starSystem",
+        "value": 2,
+        "details": "Binary",
+        "subroll": null
+    },
+    {
+        "id": 169,
+        "roll": 9,
+        "name": "Binary",
+        "code": "table.starSystem.binary",
+        "type": "table.starSystem",
+        "value": 2,
+        "details": "Binary",
+        "subroll": null
+    },
+    {
+        "id": 170,
+        "roll": 10,
+        "name": "Binary",
+        "code": "table.starSystem.binary",
+        "type": "table.starSystem",
+        "value": 2,
+        "details": "Binary",
+        "subroll": null
+    },
+    {
+        "id": 171,
+        "roll": 11,
+        "name": "Binary",
+        "code": "table.starSystem.binary",
+        "type": "table.starSystem",
+        "value": 2,
+        "details": "Binary",
+        "subroll": null
+    },
+    {
+        "id": 172,
+        "roll": 12,
+        "name": "Four or More Stars",
+        "code": "table.starSystem.fourOrMoreStars",
+        "type": "table.starSystem",
+        "value": null,
+        "details": "Four or More Stars",
+        "subroll": "roll.type.1d6"
+    }
+]

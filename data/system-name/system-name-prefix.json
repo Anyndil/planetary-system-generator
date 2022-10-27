@@ -1,1 +1,4002 @@
-[{"roll":1,"name":"A"},{"roll":2,"name":"Aa"},{"roll":3,"name":"Ab"},{"roll":4,"name":"Aba"},{"roll":5,"name":"Abe"},{"roll":6,"name":"Abi"},{"roll":7,"name":"Abo"},{"roll":8,"name":"Abso"},{"roll":9,"name":"Abu"},{"roll":10,"name":"Acero"},{"roll":11,"name":"Achi"},{"roll":12,"name":"Ad"},{"roll":13,"name":"Ada"},{"roll":14,"name":"Adeno"},{"roll":15,"name":"Adi"},{"roll":16,"name":"Ado"},{"roll":17,"name":"Adu"},{"roll":18,"name":"Ae"},{"roll":19,"name":"Aegi"},{"roll":20,"name":"Aeri"},{"roll":21,"name":"Aero"},{"roll":22,"name":"Aga"},{"roll":23,"name":"Ai"},{"roll":24,"name":"Air"},{"roll":25,"name":"Aire"},{"roll":26,"name":"Al"},{"roll":27,"name":"Ala"},{"roll":28,"name":"Albi"},{"roll":29,"name":"Algo"},{"roll":30,"name":"Ali"},{"roll":31,"name":"Alle"},{"roll":32,"name":"Alpha"},{"roll":33,"name":"Alsa"},{"roll":34,"name":"Alto"},{"roll":35,"name":"Alu"},{"roll":36,"name":"Ambi"},{"roll":37,"name":"Ambro"},{"roll":38,"name":"Ami"},{"roll":39,"name":"Amma"},{"roll":40,"name":"Ampa"},{"roll":41,"name":"Ampla"},{"roll":42,"name":"Ampli"},{"roll":43,"name":"Amplo"},{"roll":44,"name":"Ampro"},{"roll":45,"name":"Ana"},{"roll":46,"name":"Andro"},{"roll":47,"name":"Ano"},{"roll":48,"name":"Anona"},{"roll":49,"name":"Ante"},{"roll":50,"name":"Anthro"},{"roll":51,"name":"Anti"},{"roll":52,"name":"Ao"},{"roll":53,"name":"Aphro"},{"roll":54,"name":"Api"},{"roll":55,"name":"Apo"},{"roll":56,"name":"Apollo"},{"roll":57,"name":"Apos"},{"roll":58,"name":"Apri"},{"roll":59,"name":"Aqua"},{"roll":60,"name":"Arca"},{"roll":61,"name":"Are"},{"roll":62,"name":"Arga"},{"roll":63,"name":"Arge"},{"roll":64,"name":"Argi"},{"roll":65,"name":"Argo"},{"roll":66,"name":"Argu"},{"roll":67,"name":"Aris"},{"roll":68,"name":"Arka"},{"roll":69,"name":"Arr"},{"roll":70,"name":"Arte"},{"roll":71,"name":"As"},{"roll":72,"name":"Asa"},{"roll":73,"name":"Ase"},{"roll":74,"name":"Asi"},{"roll":75,"name":"Asia"},{"roll":76,"name":"Aso"},{"roll":77,"name":"Astra"},{"roll":78,"name":"Astro"},{"roll":79,"name":"Asu"},{"roll":80,"name":"Asylo"},{"roll":81,"name":"Ata"},{"roll":82,"name":"Athe"},{"roll":83,"name":"Atla"},{"roll":84,"name":"Atlanta"},{"roll":85,"name":"Ato"},{"roll":86,"name":"Au"},{"roll":87,"name":"Audio"},{"roll":88,"name":"Augu"},{"roll":89,"name":"Aura"},{"roll":90,"name":"Auto"},{"roll":91,"name":"Ava"},{"roll":92,"name":"Ave"},{"roll":93,"name":"Avio"},{"roll":94,"name":"Avo"},{"roll":95,"name":"Avu"},{"roll":96,"name":"Axa"},{"roll":97,"name":"Ay"},{"roll":98,"name":"Aye"},{"roll":99,"name":"Ba"},{"roll":100,"name":"Baba"},{"roll":101,"name":"Bag"},{"roll":102,"name":"Base"},{"roll":103,"name":"Be"},{"roll":104,"name":"Beam"},{"roll":105,"name":"Bee"},{"roll":106,"name":"Bena"},{"roll":107,"name":"Beta"},{"roll":108,"name":"Bi"},{"roll":109,"name":"Bibio"},{"roll":110,"name":"Biblio"},{"roll":111,"name":"Big"},{"roll":112,"name":"Bino"},{"roll":113,"name":"Bio"},{"roll":114,"name":"Bitroni"},{"roll":115,"name":"Bla"},{"roll":116,"name":"Blake"},{"roll":117,"name":"Blue"},{"roll":118,"name":"Bo"},{"roll":119,"name":"Bog"},{"roll":120,"name":"Bota"},{"roll":121,"name":"Brah"},{"roll":122,"name":"Brahma"},{"roll":123,"name":"Brea"},{"roll":124,"name":"Brew"},{"roll":125,"name":"Bronto"},{"roll":126,"name":"Bru"},{"roll":127,"name":"Brute"},{"roll":128,"name":"Bu"},{"roll":129,"name":"By"},{"roll":130,"name":"Bya"},{"roll":131,"name":"Bygie"},{"roll":132,"name":"Byo"},{"roll":133,"name":"Byu"},{"roll":134,"name":"Ca"},{"roll":135,"name":"Cali"},{"roll":136,"name":"Caly"},{"roll":137,"name":"Cana"},{"roll":138,"name":"Cani"},{"roll":139,"name":"Canna"},{"roll":140,"name":"Canni"},{"roll":141,"name":"Capi"},{"roll":142,"name":"Capri"},{"roll":143,"name":"Carbo"},{"roll":144,"name":"Cardio"},{"roll":145,"name":"Carno"},{"roll":146,"name":"Caro"},{"roll":147,"name":"Casi"},{"roll":148,"name":"Cataly"},{"roll":149,"name":"Cava"},{"roll":150,"name":"Ce"},{"roll":151,"name":"Ced"},{"roll":152,"name":"Centi"},{"roll":153,"name":"Cha"},{"roll":154,"name":"Chee"},{"roll":155,"name":"Chemo"},{"roll":156,"name":"Chi"},{"roll":157,"name":"Cho"},{"roll":158,"name":"Chro"},{"roll":159,"name":"Chromo"},{"roll":160,"name":"Chrono"},{"roll":161,"name":"Chu"},{"roll":162,"name":"Ci"},{"roll":163,"name":"Cina"},{"roll":164,"name":"Cine"},{"roll":165,"name":"Circa"},{"roll":166,"name":"Circu"},{"roll":167,"name":"Circum"},{"roll":168,"name":"Claw"},{"roll":169,"name":"Co"},{"roll":170,"name":"Cobra"},{"roll":171,"name":"Cogni"},{"roll":172,"name":"Coito"},{"roll":173,"name":"Combi"},{"roll":174,"name":"Combo"},{"roll":175,"name":"Commo"},{"roll":176,"name":"Commu"},{"roll":177,"name":"Communi"},{"roll":178,"name":"Compu"},{"roll":179,"name":"Condra"},{"roll":180,"name":"Conso"},{"roll":181,"name":"Contra"},{"roll":182,"name":"Cope"},{"roll":183,"name":"Coperni"},{"roll":184,"name":"Cor"},{"roll":185,"name":"Corne"},{"roll":186,"name":"Coro"},{"roll":187,"name":"Corpu"},{"roll":188,"name":"Corsy"},{"roll":189,"name":"Corti"},{"roll":190,"name":"Cosmo"},{"roll":191,"name":"Coulro"},{"roll":192,"name":"Cove"},{"roll":193,"name":"Cra"},{"roll":194,"name":"Crani"},{"roll":195,"name":"Cranio"},{"roll":196,"name":"Crea"},{"roll":197,"name":"Creta"},{"roll":198,"name":"Criti"},{"roll":199,"name":"Cro"},{"roll":200,"name":"Croco"},{"roll":201,"name":"Cryo"},{"roll":202,"name":"Cryoge"},{"roll":203,"name":"Crypto"},{"roll":204,"name":"Crys"},{"roll":205,"name":"Cu"},{"roll":206,"name":"Cy"},{"roll":207,"name":"Cyba"},{"roll":208,"name":"Cyber"},{"roll":209,"name":"Cybo"},{"roll":210,"name":"Cyclo"},{"roll":211,"name":"Cyla"},{"roll":212,"name":"Cylo"},{"roll":213,"name":"Cyn"},{"roll":214,"name":"Cyno"},{"roll":215,"name":"Cyr"},{"roll":216,"name":"Cysto"},{"roll":217,"name":"Da"},{"roll":218,"name":"Data"},{"roll":219,"name":"De"},{"roll":220,"name":"Dealta"},{"roll":221,"name":"Deca"},{"roll":222,"name":"Dece"},{"roll":223,"name":"Deci"},{"roll":224,"name":"Dee"},{"roll":225,"name":"Deka"},{"roll":226,"name":"Deme"},{"roll":227,"name":"Demi"},{"roll":228,"name":"Demo"},{"roll":229,"name":"Dermi"},{"roll":230,"name":"Dermo"},{"roll":231,"name":"Destro"},{"roll":232,"name":"Deva"},{"roll":233,"name":"Di"},{"roll":234,"name":"Dia"},{"roll":235,"name":"Digi"},{"roll":236,"name":"Dimento"},{"roll":237,"name":"Dina"},{"roll":238,"name":"Dini"},{"roll":239,"name":"Dino"},{"roll":240,"name":"Diplo"},{"roll":241,"name":"Dis"},{"roll":242,"name":"Disastro"},{"roll":243,"name":"Disca"},{"roll":244,"name":"Disco"},{"roll":245,"name":"Displa"},{"roll":246,"name":"Disso"},{"roll":247,"name":"Dista"},{"roll":248,"name":"Do"},{"roll":249,"name":"Domi"},{"roll":250,"name":"Doub"},{"roll":251,"name":"Draco"},{"roll":252,"name":"Dracu"},{"roll":253,"name":"Drago"},{"roll":254,"name":"Drap"},{"roll":255,"name":"Dreama"},{"roll":256,"name":"Dref"},{"roll":257,"name":"Drip"},{"roll":258,"name":"Dro"},{"roll":259,"name":"Drono"},{"roll":260,"name":"Du"},{"roll":261,"name":"Dual"},{"roll":262,"name":"Duo"},{"roll":263,"name":"Dy"},{"roll":264,"name":"Dyna"},{"roll":265,"name":"Dyno"},{"roll":266,"name":"Dyp"},{"roll":267,"name":"Dys"},{"roll":268,"name":"E"},{"roll":269,"name":"Ea"},{"roll":270,"name":"Echo"},{"roll":271,"name":"Eco"},{"roll":272,"name":"Ego"},{"roll":273,"name":"El"},{"roll":274,"name":"Ele"},{"roll":275,"name":"Electro"},{"roll":276,"name":"Elita"},{"roll":277,"name":"Ell"},{"roll":278,"name":"Elo"},{"roll":279,"name":"Embry"},{"roll":280,"name":"Empi"},{"roll":281,"name":"Empiro"},{"roll":282,"name":"Ener"},{"roll":283,"name":"Enigma"},{"roll":284,"name":"Ense"},{"roll":285,"name":"Enyo"},{"roll":286,"name":"Ephro"},{"roll":287,"name":"Epi"},{"roll":288,"name":"Ergo"},{"roll":289,"name":"Eri"},{"roll":290,"name":"Ery"},{"roll":291,"name":"Eryxa"},{"roll":292,"name":"Eu"},{"roll":293,"name":"Euro"},{"roll":294,"name":"Euroto"},{"roll":295,"name":"Eva"},{"roll":296,"name":"Ex"},{"roll":297,"name":"Exa"},{"roll":298,"name":"Exer"},{"roll":299,"name":"Exo"},{"roll":300,"name":"Extra"},{"roll":301,"name":"Fa"},{"roll":302,"name":"Facto"},{"roll":303,"name":"Fal"},{"roll":304,"name":"Falco"},{"roll":305,"name":"Faxo"},{"roll":306,"name":"Fe"},{"roll":307,"name":"Fef"},{"roll":308,"name":"Femi"},{"roll":309,"name":"Femmi"},{"roll":310,"name":"Femto"},{"roll":311,"name":"Fetu"},{"roll":312,"name":"Fi"},{"roll":313,"name":"Fia"},{"roll":314,"name":"Fir"},{"roll":315,"name":"Fire"},{"roll":316,"name":"Flexi"},{"roll":317,"name":"Fo"},{"roll":318,"name":"For"},{"roll":319,"name":"Formi"},{"roll":320,"name":"Forti"},{"roll":321,"name":"Fortre"},{"roll":322,"name":"Fortu"},{"roll":323,"name":"Forwa"},{"roll":324,"name":"Fra"},{"roll":325,"name":"Fu"},{"roll":326,"name":"Fuc"},{"roll":327,"name":"Fuch"},{"roll":328,"name":"Fud"},{"roll":329,"name":"Futura"},{"roll":330,"name":"Ga"},{"roll":331,"name":"Galacti"},{"roll":332,"name":"Galacto"},{"roll":333,"name":"Galva"},{"roll":334,"name":"Gamma"},{"roll":335,"name":"Gamo"},{"roll":336,"name":"Ge"},{"roll":337,"name":"Gea"},{"roll":338,"name":"Geni"},{"roll":339,"name":"Geno"},{"roll":340,"name":"Geo"},{"roll":341,"name":"Gi"},{"roll":342,"name":"Gia"},{"roll":343,"name":"Giga"},{"roll":344,"name":"Giganto"},{"roll":345,"name":"Gloto"},{"roll":346,"name":"Go"},{"roll":347,"name":"God"},{"roll":348,"name":"Gra"},{"roll":349,"name":"Gran"},{"roll":350,"name":"Grana"},{"roll":351,"name":"Gro"},{"roll":352,"name":"Grud"},{"roll":353,"name":"Gu"},{"roll":354,"name":"Gya"},{"roll":355,"name":"Gyo"},{"roll":356,"name":"Gyro"},{"roll":357,"name":"Ha"},{"roll":358,"name":"Hade"},{"roll":359,"name":"Hal"},{"roll":360,"name":"Halcy"},{"roll":361,"name":"Halo"},{"roll":362,"name":"Haplo"},{"roll":363,"name":"Harmo"},{"roll":364,"name":"He"},{"roll":365,"name":"Heka"},{"roll":366,"name":"Heli"},{"roll":367,"name":"Helio"},{"roll":368,"name":"Hemi"},{"roll":369,"name":"Hemo"},{"roll":370,"name":"Hepato"},{"roll":371,"name":"Hepta"},{"roll":372,"name":"Hercu"},{"roll":373,"name":"Hero"},{"roll":374,"name":"Hetero"},{"roll":375,"name":"Hexa"},{"roll":376,"name":"Hexi"},{"roll":377,"name":"Hi"},{"roll":378,"name":"Hi-"},{"roll":379,"name":"Hia"},{"roll":380,"name":"Hippa"},{"roll":381,"name":"Hippo"},{"roll":382,"name":"Histo"},{"roll":383,"name":"Ho"},{"roll":384,"name":"Holo"},{"roll":385,"name":"Homeo"},{"roll":386,"name":"Homi"},{"roll":387,"name":"Homino"},{"roll":388,"name":"Homo"},{"roll":389,"name":"Hoop"},{"roll":390,"name":"Horri"},{"roll":391,"name":"Hu"},{"roll":392,"name":"Huma"},{"roll":393,"name":"Hurri"},{"roll":394,"name":"Husmy"},{"roll":395,"name":"Hy"},{"roll":396,"name":"Hya"},{"roll":397,"name":"Hydra"},{"roll":398,"name":"Hydro"},{"roll":399,"name":"Hyo"},{"roll":400,"name":"Hyper"},{"roll":401,"name":"Hypno"},{"roll":402,"name":"Hyu"},{"roll":403,"name":"I"},{"roll":404,"name":"Ica"},{"roll":405,"name":"Ico"},{"roll":406,"name":"Ideo"},{"roll":407,"name":"Immorta"},{"roll":408,"name":"In"},{"roll":409,"name":"Infa"},{"roll":410,"name":"Infe"},{"roll":411,"name":"Inferno"},{"roll":412,"name":"Infi"},{"roll":413,"name":"Infra"},{"roll":414,"name":"Inno"},{"roll":415,"name":"Inpha"},{"roll":416,"name":"Inse"},{"roll":417,"name":"Insi"},{"roll":418,"name":"Inter"},{"roll":419,"name":"Intro"},{"roll":420,"name":"Iro"},{"roll":421,"name":"Iron"},{"roll":422,"name":"Iso"},{"roll":423,"name":"Ja"},{"roll":424,"name":"Jaf"},{"roll":425,"name":"Janu"},{"roll":426,"name":"Jay"},{"roll":427,"name":"Je"},{"roll":428,"name":"Jet"},{"roll":429,"name":"Ji"},{"roll":430,"name":"Jo"},{"roll":431,"name":"Ju"},{"roll":432,"name":"Juli"},{"roll":433,"name":"Juno"},{"roll":434,"name":"Jupi"},{"roll":435,"name":"Jura"},{"roll":436,"name":"Ka"},{"roll":437,"name":"Kaa"},{"roll":438,"name":"Kai"},{"roll":439,"name":"Kali"},{"roll":440,"name":"Kanga"},{"roll":441,"name":"Kango"},{"roll":442,"name":"Kao"},{"roll":443,"name":"Kay"},{"roll":444,"name":"Ke"},{"roll":445,"name":"Keno"},{"roll":446,"name":"Ki"},{"roll":447,"name":"Kia"},{"roll":448,"name":"Kii"},{"roll":449,"name":"Kila"},{"roll":450,"name":"Kilo"},{"roll":451,"name":"Kine"},{"roll":452,"name":"Ko"},{"roll":453,"name":"Koa"},{"roll":454,"name":"Koo"},{"roll":455,"name":"Kosmiko"},{"roll":456,"name":"Kosmo"},{"roll":457,"name":"Kra"},{"roll":458,"name":"Kry"},{"roll":459,"name":"Kryna"},{"roll":460,"name":"Kryo"},{"roll":461,"name":"Krypto"},{"roll":462,"name":"Krys"},{"roll":463,"name":"Kryte"},{"roll":464,"name":"Ku"},{"roll":465,"name":"Kya"},{"roll":466,"name":"Kyo"},{"roll":467,"name":"Kyu"},{"roll":468,"name":"La"},{"roll":469,"name":"Laser"},{"roll":470,"name":"Lasi"},{"roll":471,"name":"Laxa"},{"roll":472,"name":"Le"},{"roll":473,"name":"Lego"},{"roll":474,"name":"Lena"},{"roll":475,"name":"Leni"},{"roll":476,"name":"Leo"},{"roll":477,"name":"Leuko"},{"roll":478,"name":"Lexa"},{"roll":479,"name":"Lexi"},{"roll":480,"name":"Li"},{"roll":481,"name":"Lia"},{"roll":482,"name":"Light"},{"roll":483,"name":"Link"},{"roll":484,"name":"Lino"},{"roll":485,"name":"Linu"},{"roll":486,"name":"Lite"},{"roll":487,"name":"Lo"},{"roll":488,"name":"Lobo"},{"roll":489,"name":"Logo"},{"roll":490,"name":"Loki"},{"roll":491,"name":"Loli"},{"roll":492,"name":"Lordi"},{"roll":493,"name":"Lori"},{"roll":494,"name":"Lu"},{"roll":495,"name":"Luna"},{"roll":496,"name":"Lydi"},{"roll":497,"name":"Lystra"},{"roll":498,"name":"Ma"},{"roll":499,"name":"Machi"},{"roll":500,"name":"Macro"},{"roll":501,"name":"Maga"},{"roll":502,"name":"Magna"},{"roll":503,"name":"Mal"},{"roll":504,"name":"Malaxo"},{"roll":505,"name":"Mana"},{"roll":506,"name":"Manni"},{"roll":507,"name":"Manno"},{"roll":508,"name":"Mar"},{"roll":509,"name":"Mara"},{"roll":510,"name":"Marvi"},{"roll":511,"name":"Masi"},{"roll":512,"name":"Massi"},{"roll":513,"name":"Mata"},{"roll":514,"name":"Matri"},{"roll":515,"name":"Maxa"},{"roll":516,"name":"Maxi"},{"roll":517,"name":"Maxima"},{"roll":518,"name":"Mazo"},{"roll":519,"name":"Me"},{"roll":520,"name":"Mecha"},{"roll":521,"name":"Mechi"},{"roll":522,"name":"Medi"},{"roll":523,"name":"Medu"},{"roll":524,"name":"Mega"},{"roll":525,"name":"Mekka"},{"roll":526,"name":"Mela"},{"roll":527,"name":"Melo"},{"roll":528,"name":"Melona"},{"roll":529,"name":"Melono"},{"roll":530,"name":"Mem"},{"roll":531,"name":"Memo"},{"roll":532,"name":"Mercen"},{"roll":533,"name":"Merci"},{"roll":534,"name":"Mercu"},{"roll":535,"name":"Meta"},{"roll":536,"name":"Metri"},{"roll":537,"name":"Metro"},{"roll":538,"name":"Mezza"},{"roll":539,"name":"Mi"},{"roll":540,"name":"Micro"},{"roll":541,"name":"Midi"},{"roll":542,"name":"Milla"},{"roll":543,"name":"Milli"},{"roll":544,"name":"Mina"},{"roll":545,"name":"Mini"},{"roll":546,"name":"Minima"},{"roll":547,"name":"Minmi"},{"roll":548,"name":"Minu"},{"roll":549,"name":"Miri"},{"roll":550,"name":"Mixi"},{"roll":551,"name":"Mlito"},{"roll":552,"name":"Mo"},{"roll":553,"name":"Mobi"},{"roll":554,"name":"Modo"},{"roll":555,"name":"Modu"},{"roll":556,"name":"Modula"},{"roll":557,"name":"Moni"},{"roll":558,"name":"Mono"},{"roll":559,"name":"Moo"},{"roll":560,"name":"Moon"},{"roll":561,"name":"Morpho"},{"roll":562,"name":"Morta"},{"roll":563,"name":"Mother-"},{"roll":564,"name":"Motio"},{"roll":565,"name":"Moto"},{"roll":566,"name":"Mu"},{"roll":567,"name":"Multi"},{"roll":568,"name":"Musa"},{"roll":569,"name":"Musi"},{"roll":570,"name":"Muso"},{"roll":571,"name":"Muta"},{"roll":572,"name":"Muti"},{"roll":573,"name":"My"},{"roll":574,"name":"Mya"},{"roll":575,"name":"Myco"},{"roll":576,"name":"Myo"},{"roll":577,"name":"Myrmi"},{"roll":578,"name":"Myro"},{"roll":579,"name":"Myxo"},{"roll":580,"name":"N"},{"roll":581,"name":"Na"},{"roll":582,"name":"Nano"},{"roll":583,"name":"Narci"},{"roll":584,"name":"Nasp"},{"roll":585,"name":"Ne"},{"roll":586,"name":"Nebu"},{"roll":587,"name":"Nebula"},{"roll":588,"name":"Necro"},{"roll":589,"name":"Neme"},{"roll":590,"name":"Nemesi"},{"roll":591,"name":"Nen"},{"roll":592,"name":"Neo"},{"roll":593,"name":"Nepha"},{"roll":594,"name":"Nepto"},{"roll":595,"name":"Neptu"},{"roll":596,"name":"Nero"},{"roll":597,"name":"Nesp"},{"roll":598,"name":"Neu"},{"roll":599,"name":"Neuro"},{"roll":600,"name":"Neutro"},{"roll":601,"name":"Nexo"},{"roll":602,"name":"Nexu"},{"roll":603,"name":"Ni"},{"roll":604,"name":"Nico"},{"roll":605,"name":"Niger"},{"roll":606,"name":"Niki"},{"roll":607,"name":"Nissa"},{"roll":608,"name":"No"},{"roll":609,"name":"Noki"},{"roll":610,"name":"Noko"},{"roll":611,"name":"Nona"},{"roll":612,"name":"Noni"},{"roll":613,"name":"Nosp"},{"roll":614,"name":"Nou"},{"roll":615,"name":"Nova"},{"roll":616,"name":"Nu"},{"roll":617,"name":"Nupri"},{"roll":618,"name":"Ny"},{"roll":619,"name":"Nya"},{"roll":620,"name":"Nympho"},{"roll":621,"name":"Nyo"},{"roll":622,"name":"Nys"},{"roll":623,"name":"Nyu"},{"roll":624,"name":"O"},{"roll":625,"name":"Obe"},{"roll":626,"name":"Octo"},{"roll":627,"name":"Odessa"},{"roll":628,"name":"Oly"},{"roll":629,"name":"Omega"},{"roll":630,"name":"Omni"},{"roll":631,"name":"Omo"},{"roll":632,"name":"Omorphia"},{"roll":633,"name":"Ooh"},{"roll":634,"name":"Opti"},{"roll":635,"name":"Optimo"},{"roll":636,"name":"Opto"},{"roll":637,"name":"Ora"},{"roll":638,"name":"Oscilla"},{"roll":639,"name":"Osy"},{"roll":640,"name":"Outer"},{"roll":641,"name":"Oxy"},{"roll":642,"name":"Pa"},{"roll":643,"name":"Pago"},{"roll":644,"name":"Paleo"},{"roll":645,"name":"Pan"},{"roll":646,"name":"Pana"},{"roll":647,"name":"Panda"},{"roll":648,"name":"Pando"},{"roll":649,"name":"Pangi"},{"roll":650,"name":"Pano"},{"roll":651,"name":"Papa"},{"roll":652,"name":"Para"},{"roll":653,"name":"Pe"},{"roll":654,"name":"Pecto"},{"roll":655,"name":"Pee"},{"roll":656,"name":"Pega"},{"roll":657,"name":"Pena"},{"roll":658,"name":"Pene"},{"roll":659,"name":"Penelo"},{"roll":660,"name":"Penni"},{"roll":661,"name":"Penta"},{"roll":662,"name":"Pente"},{"roll":663,"name":"Peri"},{"roll":664,"name":"Pero"},{"roll":665,"name":"Perse"},{"roll":666,"name":"Persepho"},{"roll":667,"name":"Peta"},{"roll":668,"name":"Pexi"},{"roll":669,"name":"Pha"},{"roll":670,"name":"Phalli"},{"roll":671,"name":"Phanta"},{"roll":672,"name":"Pharma"},{"roll":673,"name":"Phaser"},{"roll":674,"name":"Phe"},{"roll":675,"name":"Phea"},{"roll":676,"name":"Phedra"},{"roll":677,"name":"Phene"},{"roll":678,"name":"Pheno"},{"roll":679,"name":"Phi"},{"roll":680,"name":"Phila"},{"roll":681,"name":"Philo"},{"roll":682,"name":"Pho"},{"roll":683,"name":"Photo"},{"roll":684,"name":"Phy"},{"roll":685,"name":"Physio"},{"roll":686,"name":"Pi"},{"roll":687,"name":"Pia"},{"roll":688,"name":"Pico"},{"roll":689,"name":"Pina"},{"roll":690,"name":"Pino"},{"roll":691,"name":"Pixi"},{"roll":692,"name":"Pla"},{"roll":693,"name":"Place"},{"roll":694,"name":"Plane"},{"roll":695,"name":"Plar"},{"roll":696,"name":"Plasmo"},{"roll":697,"name":"Plato"},{"roll":698,"name":"Platta"},{"roll":699,"name":"Platti"},{"roll":700,"name":"Plexi"},{"roll":701,"name":"Plor"},{"roll":702,"name":"Plu"},{"roll":703,"name":"Plura"},{"roll":704,"name":"Pluto"},{"roll":705,"name":"Po"},{"roll":706,"name":"Pole"},{"roll":707,"name":"Poly"},{"roll":708,"name":"Popla"},{"roll":709,"name":"Posei"},{"roll":710,"name":"Posi"},{"roll":711,"name":"Post"},{"roll":712,"name":"Posto"},{"roll":713,"name":"Pre"},{"roll":714,"name":"Prem"},{"roll":715,"name":"Premiu"},{"roll":716,"name":"Prima"},{"roll":717,"name":"Primo"},{"roll":718,"name":"Pro"},{"roll":719,"name":"Proeto"},{"roll":720,"name":"Proto"},{"roll":721,"name":"Pseudo"},{"roll":722,"name":"Psi"},{"roll":723,"name":"Psy"},{"roll":724,"name":"Psycha"},{"roll":725,"name":"Psycho"},{"roll":726,"name":"Psyno"},{"roll":727,"name":"Pu"},{"roll":728,"name":"Pya"},{"roll":729,"name":"Pyo"},{"roll":730,"name":"Pyra"},{"roll":731,"name":"Pyrena"},{"roll":732,"name":"Pyro"},{"roll":733,"name":"Pyu"},{"roll":734,"name":"Qua"},{"roll":735,"name":"Quadra"},{"roll":736,"name":"Quanto"},{"roll":737,"name":"Quantu"},{"roll":738,"name":"Quasi"},{"roll":739,"name":"Quatro"},{"roll":740,"name":"Que"},{"roll":741,"name":"Qui"},{"roll":742,"name":"Quik"},{"roll":743,"name":"Quinti"},{"roll":744,"name":"Quo"},{"roll":745,"name":"Ra"},{"roll":746,"name":"Radi"},{"roll":747,"name":"Radia"},{"roll":748,"name":"Radio"},{"roll":749,"name":"Radiu"},{"roll":750,"name":"Ram"},{"roll":751,"name":"Rama"},{"roll":752,"name":"Rampa"},{"roll":753,"name":"Ramsha"},{"roll":754,"name":"Rani"},{"roll":755,"name":"Rast"},{"roll":756,"name":"Rava"},{"roll":757,"name":"Ray"},{"roll":758,"name":"Re"},{"roll":759,"name":"Reco"},{"roll":760,"name":"Red"},{"roll":761,"name":"Regu"},{"roll":762,"name":"Rena"},{"roll":763,"name":"Repli"},{"roll":764,"name":"Reta"},{"roll":765,"name":"Retro"},{"roll":766,"name":"Rewi"},{"roll":767,"name":"Rexa"},{"roll":768,"name":"Rexo"},{"roll":769,"name":"Rhi"},{"roll":770,"name":"Rhia"},{"roll":771,"name":"Rhino"},{"roll":772,"name":"Ri"},{"roll":773,"name":"Ria"},{"roll":774,"name":"Rino"},{"roll":775,"name":"Rip"},{"roll":776,"name":"Rive"},{"roll":777,"name":"Riza"},{"roll":778,"name":"Ro"},{"roll":779,"name":"Robo"},{"roll":780,"name":"Rove"},{"roll":781,"name":"Ru"},{"roll":782,"name":"Rya"},{"roll":783,"name":"Ryu"},{"roll":784,"name":"Sa"},{"roll":785,"name":"Sana"},{"roll":786,"name":"Sap"},{"roll":787,"name":"Sapa"},{"roll":788,"name":"Satur"},{"roll":789,"name":"Sci"},{"roll":790,"name":"Scie"},{"roll":791,"name":"Sciento"},{"roll":792,"name":"Screen"},{"roll":793,"name":"Scylla"},{"roll":794,"name":"Se"},{"roll":795,"name":"See"},{"roll":796,"name":"Semi"},{"roll":797,"name":"Senti"},{"roll":798,"name":"Sentia"},{"roll":799,"name":"Sepi"},{"roll":800,"name":"Septa"},{"roll":801,"name":"Ses"},{"roll":802,"name":"Seta"},{"roll":803,"name":"Sexta"},{"roll":804,"name":"Sexu"},{"roll":805,"name":"Sha"},{"roll":806,"name":"Shado"},{"roll":807,"name":"Shi"},{"roll":808,"name":"Shadow-"},{"roll":809,"name":"Shi"},{"roll":810,"name":"Shiva"},{"roll":811,"name":"Sho"},{"roll":812,"name":"Shu"},{"roll":813,"name":"Sigma"},{"roll":814,"name":"Silo"},{"roll":815,"name":"Singu"},{"roll":816,"name":"Sino"},{"roll":817,"name":"Sky"},{"roll":818,"name":"Sna"},{"roll":819,"name":"Snej"},{"roll":820,"name":"Sojh"},{"roll":821,"name":"Sola"},{"roll":822,"name":"Solar"},{"roll":823,"name":"Soldi"},{"roll":824,"name":"Soma"},{"roll":825,"name":"Soni"},{"roll":826,"name":"Sopu"},{"roll":827,"name":"Space"},{"roll":828,"name":"Spectro"},{"roll":829,"name":"Stanza"},{"roll":830,"name":"Star"},{"roll":831,"name":"Ste"},{"roll":832,"name":"Stella"},{"roll":833,"name":"Ster"},{"roll":834,"name":"Stereo"},{"roll":835,"name":"Stra"},{"roll":836,"name":"Strata"},{"roll":837,"name":"Su"},{"roll":838,"name":"Sub"},{"roll":839,"name":"Sui"},{"roll":840,"name":"Supo"},{"roll":841,"name":"Supra"},{"roll":842,"name":"Supre"},{"roll":843,"name":"Swi"},{"roll":844,"name":"Swipe"},{"roll":845,"name":"Switch"},{"roll":846,"name":"Sword"},{"roll":847,"name":"Symme"},{"roll":848,"name":"Syn"},{"roll":849,"name":"Syne"},{"roll":850,"name":"Synthe"},{"roll":851,"name":"Sypa"},{"roll":852,"name":"Systema"},{"roll":853,"name":"Ta"},{"roll":854,"name":"Tama"},{"roll":855,"name":"Tamo"},{"roll":856,"name":"Tanni"},{"roll":857,"name":"Taxo"},{"roll":858,"name":"Te"},{"roll":859,"name":"Tea"},{"roll":860,"name":"Techno"},{"roll":861,"name":"Tee"},{"roll":862,"name":"Tekka"},{"roll":863,"name":"Tekla"},{"roll":864,"name":"Tele"},{"roll":865,"name":"Telexo"},{"roll":866,"name":"Telo"},{"roll":867,"name":"Tera"},{"roll":868,"name":"Termi"},{"roll":869,"name":"Terra"},{"roll":870,"name":"Tetra"},{"roll":871,"name":"Tetri"},{"roll":872,"name":"Tetro"},{"roll":873,"name":"Tha"},{"roll":874,"name":"Thali"},{"roll":875,"name":"Theo"},{"roll":876,"name":"Tho"},{"roll":877,"name":"Thore"},{"roll":878,"name":"Thu"},{"roll":879,"name":"Thunder"},{"roll":880,"name":"Thundra"},{"roll":881,"name":"Thy"},{"roll":882,"name":"Ti"},{"roll":883,"name":"Tita"},{"roll":884,"name":"Titania"},{"roll":885,"name":"To"},{"roll":886,"name":"Torpo"},{"roll":887,"name":"Toxi"},{"roll":888,"name":"Tra"},{"roll":889,"name":"Tran"},{"roll":890,"name":"Trans"},{"roll":891,"name":"Transa"},{"roll":892,"name":"Tri"},{"roll":893,"name":"Tria"},{"roll":894,"name":"Trina"},{"roll":895,"name":"Trio"},{"roll":896,"name":"Tro"},{"roll":897,"name":"Trona"},{"roll":898,"name":"Troni"},{"roll":899,"name":"Try"},{"roll":900,"name":"Trypti"},{"roll":901,"name":"Tsu"},{"roll":902,"name":"Tubu"},{"roll":903,"name":"Tycho"},{"roll":904,"name":"Tyrana"},{"roll":905,"name":"U"},{"roll":906,"name":"Ubw"},{"roll":907,"name":"Uch"},{"roll":908,"name":"Ucha"},{"roll":909,"name":"Ulti"},{"roll":910,"name":"Ultima"},{"roll":911,"name":"Ultra"},{"roll":912,"name":"Uly"},{"roll":913,"name":"Uni"},{"roll":914,"name":"Ura"},{"roll":915,"name":"Urano"},{"roll":916,"name":"Va"},{"roll":917,"name":"Ve"},{"roll":918,"name":"Vee"},{"roll":919,"name":"Vela"},{"roll":920,"name":"Veloci"},{"roll":921,"name":"Venu"},{"roll":922,"name":"Verba"},{"roll":923,"name":"Vero"},{"roll":924,"name":"Vexi"},{"roll":925,"name":"Vi"},{"roll":926,"name":"Via"},{"roll":927,"name":"Video"},{"roll":928,"name":"Vio"},{"roll":929,"name":"Viri"},{"roll":930,"name":"Viru"},{"roll":931,"name":"Vo"},{"roll":932,"name":"Voco"},{"roll":933,"name":"Vor"},{"roll":934,"name":"Vu"},{"roll":935,"name":"Vul"},{"roll":936,"name":"Vulca"},{"roll":937,"name":"Wa"},{"roll":938,"name":"Wadra"},{"roll":939,"name":"War"},{"roll":940,"name":"We"},{"roll":941,"name":"Why"},{"roll":942,"name":"Wi"},{"roll":943,"name":"Wo"},{"roll":944,"name":"Wu"},{"roll":945,"name":"Xa"},{"roll":946,"name":"Xana"},{"roll":947,"name":"Xanthe"},{"roll":948,"name":"Xantho"},{"roll":949,"name":"Xe"},{"roll":950,"name":"Xena"},{"roll":951,"name":"Xeni"},{"roll":952,"name":"Xeno"},{"roll":953,"name":"Xenu"},{"roll":954,"name":"Xi"},{"roll":955,"name":"Xia"},{"roll":956,"name":"Xo"},{"roll":957,"name":"Xu"},{"roll":958,"name":"Xy"},{"roll":959,"name":"Xyla"},{"roll":960,"name":"Xylo"},{"roll":961,"name":"Ya"},{"roll":962,"name":"Yaa"},{"roll":963,"name":"Yai"},{"roll":964,"name":"Yao"},{"roll":965,"name":"Yi"},{"roll":966,"name":"Yo"},{"roll":967,"name":"Yocto"},{"roll":968,"name":"Yotta"},{"roll":969,"name":"You"},{"roll":970,"name":"Yu"},{"roll":971,"name":"Za"},{"roll":972,"name":"Zapa"},{"roll":973,"name":"Zau"},{"roll":974,"name":"Ze"},{"roll":975,"name":"Zebi"},{"roll":976,"name":"Zed"},{"roll":977,"name":"Zefi"},{"roll":978,"name":"Zefir"},{"roll":979,"name":"Zela"},{"roll":980,"name":"Zelia"},{"roll":981,"name":"Zelo"},{"roll":982,"name":"Zemmi"},{"roll":983,"name":"Zeno"},{"roll":984,"name":"Zephe"},{"roll":985,"name":"Zepto"},{"roll":986,"name":"Zero"},{"roll":987,"name":"Zeta"},{"roll":988,"name":"Zetta"},{"roll":989,"name":"Zeuso"},{"roll":990,"name":"Zho"},{"roll":991,"name":"Zi"},{"roll":992,"name":"Zir"},{"roll":993,"name":"Zo"},{"roll":994,"name":"Zoe"},{"roll":995,"name":"Zoo"},{"roll":996,"name":"Zoro"},{"roll":997,"name":"Zoti"},{"roll":998,"name":"Zotico"},{"roll":999,"name":"Zu"},{"roll":1000,"name":"Zyr"}]
+[
+    {
+        "roll": 1,
+        "name": "A"
+    },
+    {
+        "roll": 2,
+        "name": "Aa"
+    },
+    {
+        "roll": 3,
+        "name": "Ab"
+    },
+    {
+        "roll": 4,
+        "name": "Aba"
+    },
+    {
+        "roll": 5,
+        "name": "Abe"
+    },
+    {
+        "roll": 6,
+        "name": "Abi"
+    },
+    {
+        "roll": 7,
+        "name": "Abo"
+    },
+    {
+        "roll": 8,
+        "name": "Abso"
+    },
+    {
+        "roll": 9,
+        "name": "Abu"
+    },
+    {
+        "roll": 10,
+        "name": "Acero"
+    },
+    {
+        "roll": 11,
+        "name": "Achi"
+    },
+    {
+        "roll": 12,
+        "name": "Ad"
+    },
+    {
+        "roll": 13,
+        "name": "Ada"
+    },
+    {
+        "roll": 14,
+        "name": "Adeno"
+    },
+    {
+        "roll": 15,
+        "name": "Adi"
+    },
+    {
+        "roll": 16,
+        "name": "Ado"
+    },
+    {
+        "roll": 17,
+        "name": "Adu"
+    },
+    {
+        "roll": 18,
+        "name": "Ae"
+    },
+    {
+        "roll": 19,
+        "name": "Aegi"
+    },
+    {
+        "roll": 20,
+        "name": "Aeri"
+    },
+    {
+        "roll": 21,
+        "name": "Aero"
+    },
+    {
+        "roll": 22,
+        "name": "Aga"
+    },
+    {
+        "roll": 23,
+        "name": "Ai"
+    },
+    {
+        "roll": 24,
+        "name": "Air"
+    },
+    {
+        "roll": 25,
+        "name": "Aire"
+    },
+    {
+        "roll": 26,
+        "name": "Al"
+    },
+    {
+        "roll": 27,
+        "name": "Ala"
+    },
+    {
+        "roll": 28,
+        "name": "Albi"
+    },
+    {
+        "roll": 29,
+        "name": "Algo"
+    },
+    {
+        "roll": 30,
+        "name": "Ali"
+    },
+    {
+        "roll": 31,
+        "name": "Alle"
+    },
+    {
+        "roll": 32,
+        "name": "Alpha"
+    },
+    {
+        "roll": 33,
+        "name": "Alsa"
+    },
+    {
+        "roll": 34,
+        "name": "Alto"
+    },
+    {
+        "roll": 35,
+        "name": "Alu"
+    },
+    {
+        "roll": 36,
+        "name": "Ambi"
+    },
+    {
+        "roll": 37,
+        "name": "Ambro"
+    },
+    {
+        "roll": 38,
+        "name": "Ami"
+    },
+    {
+        "roll": 39,
+        "name": "Amma"
+    },
+    {
+        "roll": 40,
+        "name": "Ampa"
+    },
+    {
+        "roll": 41,
+        "name": "Ampla"
+    },
+    {
+        "roll": 42,
+        "name": "Ampli"
+    },
+    {
+        "roll": 43,
+        "name": "Amplo"
+    },
+    {
+        "roll": 44,
+        "name": "Ampro"
+    },
+    {
+        "roll": 45,
+        "name": "Ana"
+    },
+    {
+        "roll": 46,
+        "name": "Andro"
+    },
+    {
+        "roll": 47,
+        "name": "Ano"
+    },
+    {
+        "roll": 48,
+        "name": "Anona"
+    },
+    {
+        "roll": 49,
+        "name": "Ante"
+    },
+    {
+        "roll": 50,
+        "name": "Anthro"
+    },
+    {
+        "roll": 51,
+        "name": "Anti"
+    },
+    {
+        "roll": 52,
+        "name": "Ao"
+    },
+    {
+        "roll": 53,
+        "name": "Aphro"
+    },
+    {
+        "roll": 54,
+        "name": "Api"
+    },
+    {
+        "roll": 55,
+        "name": "Apo"
+    },
+    {
+        "roll": 56,
+        "name": "Apollo"
+    },
+    {
+        "roll": 57,
+        "name": "Apos"
+    },
+    {
+        "roll": 58,
+        "name": "Apri"
+    },
+    {
+        "roll": 59,
+        "name": "Aqua"
+    },
+    {
+        "roll": 60,
+        "name": "Arca"
+    },
+    {
+        "roll": 61,
+        "name": "Are"
+    },
+    {
+        "roll": 62,
+        "name": "Arga"
+    },
+    {
+        "roll": 63,
+        "name": "Arge"
+    },
+    {
+        "roll": 64,
+        "name": "Argi"
+    },
+    {
+        "roll": 65,
+        "name": "Argo"
+    },
+    {
+        "roll": 66,
+        "name": "Argu"
+    },
+    {
+        "roll": 67,
+        "name": "Aris"
+    },
+    {
+        "roll": 68,
+        "name": "Arka"
+    },
+    {
+        "roll": 69,
+        "name": "Arr"
+    },
+    {
+        "roll": 70,
+        "name": "Arte"
+    },
+    {
+        "roll": 71,
+        "name": "As"
+    },
+    {
+        "roll": 72,
+        "name": "Asa"
+    },
+    {
+        "roll": 73,
+        "name": "Ase"
+    },
+    {
+        "roll": 74,
+        "name": "Asi"
+    },
+    {
+        "roll": 75,
+        "name": "Asia"
+    },
+    {
+        "roll": 76,
+        "name": "Aso"
+    },
+    {
+        "roll": 77,
+        "name": "Astra"
+    },
+    {
+        "roll": 78,
+        "name": "Astro"
+    },
+    {
+        "roll": 79,
+        "name": "Asu"
+    },
+    {
+        "roll": 80,
+        "name": "Asylo"
+    },
+    {
+        "roll": 81,
+        "name": "Ata"
+    },
+    {
+        "roll": 82,
+        "name": "Athe"
+    },
+    {
+        "roll": 83,
+        "name": "Atla"
+    },
+    {
+        "roll": 84,
+        "name": "Atlanta"
+    },
+    {
+        "roll": 85,
+        "name": "Ato"
+    },
+    {
+        "roll": 86,
+        "name": "Au"
+    },
+    {
+        "roll": 87,
+        "name": "Audio"
+    },
+    {
+        "roll": 88,
+        "name": "Augu"
+    },
+    {
+        "roll": 89,
+        "name": "Aura"
+    },
+    {
+        "roll": 90,
+        "name": "Auto"
+    },
+    {
+        "roll": 91,
+        "name": "Ava"
+    },
+    {
+        "roll": 92,
+        "name": "Ave"
+    },
+    {
+        "roll": 93,
+        "name": "Avio"
+    },
+    {
+        "roll": 94,
+        "name": "Avo"
+    },
+    {
+        "roll": 95,
+        "name": "Avu"
+    },
+    {
+        "roll": 96,
+        "name": "Axa"
+    },
+    {
+        "roll": 97,
+        "name": "Ay"
+    },
+    {
+        "roll": 98,
+        "name": "Aye"
+    },
+    {
+        "roll": 99,
+        "name": "Ba"
+    },
+    {
+        "roll": 100,
+        "name": "Baba"
+    },
+    {
+        "roll": 101,
+        "name": "Bag"
+    },
+    {
+        "roll": 102,
+        "name": "Base"
+    },
+    {
+        "roll": 103,
+        "name": "Be"
+    },
+    {
+        "roll": 104,
+        "name": "Beam"
+    },
+    {
+        "roll": 105,
+        "name": "Bee"
+    },
+    {
+        "roll": 106,
+        "name": "Bena"
+    },
+    {
+        "roll": 107,
+        "name": "Beta"
+    },
+    {
+        "roll": 108,
+        "name": "Bi"
+    },
+    {
+        "roll": 109,
+        "name": "Bibio"
+    },
+    {
+        "roll": 110,
+        "name": "Biblio"
+    },
+    {
+        "roll": 111,
+        "name": "Big"
+    },
+    {
+        "roll": 112,
+        "name": "Bino"
+    },
+    {
+        "roll": 113,
+        "name": "Bio"
+    },
+    {
+        "roll": 114,
+        "name": "Bitroni"
+    },
+    {
+        "roll": 115,
+        "name": "Bla"
+    },
+    {
+        "roll": 116,
+        "name": "Blake"
+    },
+    {
+        "roll": 117,
+        "name": "Blue"
+    },
+    {
+        "roll": 118,
+        "name": "Bo"
+    },
+    {
+        "roll": 119,
+        "name": "Bog"
+    },
+    {
+        "roll": 120,
+        "name": "Bota"
+    },
+    {
+        "roll": 121,
+        "name": "Brah"
+    },
+    {
+        "roll": 122,
+        "name": "Brahma"
+    },
+    {
+        "roll": 123,
+        "name": "Brea"
+    },
+    {
+        "roll": 124,
+        "name": "Brew"
+    },
+    {
+        "roll": 125,
+        "name": "Bronto"
+    },
+    {
+        "roll": 126,
+        "name": "Bru"
+    },
+    {
+        "roll": 127,
+        "name": "Brute"
+    },
+    {
+        "roll": 128,
+        "name": "Bu"
+    },
+    {
+        "roll": 129,
+        "name": "By"
+    },
+    {
+        "roll": 130,
+        "name": "Bya"
+    },
+    {
+        "roll": 131,
+        "name": "Bygie"
+    },
+    {
+        "roll": 132,
+        "name": "Byo"
+    },
+    {
+        "roll": 133,
+        "name": "Byu"
+    },
+    {
+        "roll": 134,
+        "name": "Ca"
+    },
+    {
+        "roll": 135,
+        "name": "Cali"
+    },
+    {
+        "roll": 136,
+        "name": "Caly"
+    },
+    {
+        "roll": 137,
+        "name": "Cana"
+    },
+    {
+        "roll": 138,
+        "name": "Cani"
+    },
+    {
+        "roll": 139,
+        "name": "Canna"
+    },
+    {
+        "roll": 140,
+        "name": "Canni"
+    },
+    {
+        "roll": 141,
+        "name": "Capi"
+    },
+    {
+        "roll": 142,
+        "name": "Capri"
+    },
+    {
+        "roll": 143,
+        "name": "Carbo"
+    },
+    {
+        "roll": 144,
+        "name": "Cardio"
+    },
+    {
+        "roll": 145,
+        "name": "Carno"
+    },
+    {
+        "roll": 146,
+        "name": "Caro"
+    },
+    {
+        "roll": 147,
+        "name": "Casi"
+    },
+    {
+        "roll": 148,
+        "name": "Cataly"
+    },
+    {
+        "roll": 149,
+        "name": "Cava"
+    },
+    {
+        "roll": 150,
+        "name": "Ce"
+    },
+    {
+        "roll": 151,
+        "name": "Ced"
+    },
+    {
+        "roll": 152,
+        "name": "Centi"
+    },
+    {
+        "roll": 153,
+        "name": "Cha"
+    },
+    {
+        "roll": 154,
+        "name": "Chee"
+    },
+    {
+        "roll": 155,
+        "name": "Chemo"
+    },
+    {
+        "roll": 156,
+        "name": "Chi"
+    },
+    {
+        "roll": 157,
+        "name": "Cho"
+    },
+    {
+        "roll": 158,
+        "name": "Chro"
+    },
+    {
+        "roll": 159,
+        "name": "Chromo"
+    },
+    {
+        "roll": 160,
+        "name": "Chrono"
+    },
+    {
+        "roll": 161,
+        "name": "Chu"
+    },
+    {
+        "roll": 162,
+        "name": "Ci"
+    },
+    {
+        "roll": 163,
+        "name": "Cina"
+    },
+    {
+        "roll": 164,
+        "name": "Cine"
+    },
+    {
+        "roll": 165,
+        "name": "Circa"
+    },
+    {
+        "roll": 166,
+        "name": "Circu"
+    },
+    {
+        "roll": 167,
+        "name": "Circum"
+    },
+    {
+        "roll": 168,
+        "name": "Claw"
+    },
+    {
+        "roll": 169,
+        "name": "Co"
+    },
+    {
+        "roll": 170,
+        "name": "Cobra"
+    },
+    {
+        "roll": 171,
+        "name": "Cogni"
+    },
+    {
+        "roll": 172,
+        "name": "Coito"
+    },
+    {
+        "roll": 173,
+        "name": "Combi"
+    },
+    {
+        "roll": 174,
+        "name": "Combo"
+    },
+    {
+        "roll": 175,
+        "name": "Commo"
+    },
+    {
+        "roll": 176,
+        "name": "Commu"
+    },
+    {
+        "roll": 177,
+        "name": "Communi"
+    },
+    {
+        "roll": 178,
+        "name": "Compu"
+    },
+    {
+        "roll": 179,
+        "name": "Condra"
+    },
+    {
+        "roll": 180,
+        "name": "Conso"
+    },
+    {
+        "roll": 181,
+        "name": "Contra"
+    },
+    {
+        "roll": 182,
+        "name": "Cope"
+    },
+    {
+        "roll": 183,
+        "name": "Coperni"
+    },
+    {
+        "roll": 184,
+        "name": "Cor"
+    },
+    {
+        "roll": 185,
+        "name": "Corne"
+    },
+    {
+        "roll": 186,
+        "name": "Coro"
+    },
+    {
+        "roll": 187,
+        "name": "Corpu"
+    },
+    {
+        "roll": 188,
+        "name": "Corsy"
+    },
+    {
+        "roll": 189,
+        "name": "Corti"
+    },
+    {
+        "roll": 190,
+        "name": "Cosmo"
+    },
+    {
+        "roll": 191,
+        "name": "Coulro"
+    },
+    {
+        "roll": 192,
+        "name": "Cove"
+    },
+    {
+        "roll": 193,
+        "name": "Cra"
+    },
+    {
+        "roll": 194,
+        "name": "Crani"
+    },
+    {
+        "roll": 195,
+        "name": "Cranio"
+    },
+    {
+        "roll": 196,
+        "name": "Crea"
+    },
+    {
+        "roll": 197,
+        "name": "Creta"
+    },
+    {
+        "roll": 198,
+        "name": "Criti"
+    },
+    {
+        "roll": 199,
+        "name": "Cro"
+    },
+    {
+        "roll": 200,
+        "name": "Croco"
+    },
+    {
+        "roll": 201,
+        "name": "Cryo"
+    },
+    {
+        "roll": 202,
+        "name": "Cryoge"
+    },
+    {
+        "roll": 203,
+        "name": "Crypto"
+    },
+    {
+        "roll": 204,
+        "name": "Crys"
+    },
+    {
+        "roll": 205,
+        "name": "Cu"
+    },
+    {
+        "roll": 206,
+        "name": "Cy"
+    },
+    {
+        "roll": 207,
+        "name": "Cyba"
+    },
+    {
+        "roll": 208,
+        "name": "Cyber"
+    },
+    {
+        "roll": 209,
+        "name": "Cybo"
+    },
+    {
+        "roll": 210,
+        "name": "Cyclo"
+    },
+    {
+        "roll": 211,
+        "name": "Cyla"
+    },
+    {
+        "roll": 212,
+        "name": "Cylo"
+    },
+    {
+        "roll": 213,
+        "name": "Cyn"
+    },
+    {
+        "roll": 214,
+        "name": "Cyno"
+    },
+    {
+        "roll": 215,
+        "name": "Cyr"
+    },
+    {
+        "roll": 216,
+        "name": "Cysto"
+    },
+    {
+        "roll": 217,
+        "name": "Da"
+    },
+    {
+        "roll": 218,
+        "name": "Data"
+    },
+    {
+        "roll": 219,
+        "name": "De"
+    },
+    {
+        "roll": 220,
+        "name": "Dealta"
+    },
+    {
+        "roll": 221,
+        "name": "Deca"
+    },
+    {
+        "roll": 222,
+        "name": "Dece"
+    },
+    {
+        "roll": 223,
+        "name": "Deci"
+    },
+    {
+        "roll": 224,
+        "name": "Dee"
+    },
+    {
+        "roll": 225,
+        "name": "Deka"
+    },
+    {
+        "roll": 226,
+        "name": "Deme"
+    },
+    {
+        "roll": 227,
+        "name": "Demi"
+    },
+    {
+        "roll": 228,
+        "name": "Demo"
+    },
+    {
+        "roll": 229,
+        "name": "Dermi"
+    },
+    {
+        "roll": 230,
+        "name": "Dermo"
+    },
+    {
+        "roll": 231,
+        "name": "Destro"
+    },
+    {
+        "roll": 232,
+        "name": "Deva"
+    },
+    {
+        "roll": 233,
+        "name": "Di"
+    },
+    {
+        "roll": 234,
+        "name": "Dia"
+    },
+    {
+        "roll": 235,
+        "name": "Digi"
+    },
+    {
+        "roll": 236,
+        "name": "Dimento"
+    },
+    {
+        "roll": 237,
+        "name": "Dina"
+    },
+    {
+        "roll": 238,
+        "name": "Dini"
+    },
+    {
+        "roll": 239,
+        "name": "Dino"
+    },
+    {
+        "roll": 240,
+        "name": "Diplo"
+    },
+    {
+        "roll": 241,
+        "name": "Dis"
+    },
+    {
+        "roll": 242,
+        "name": "Disastro"
+    },
+    {
+        "roll": 243,
+        "name": "Disca"
+    },
+    {
+        "roll": 244,
+        "name": "Disco"
+    },
+    {
+        "roll": 245,
+        "name": "Displa"
+    },
+    {
+        "roll": 246,
+        "name": "Disso"
+    },
+    {
+        "roll": 247,
+        "name": "Dista"
+    },
+    {
+        "roll": 248,
+        "name": "Do"
+    },
+    {
+        "roll": 249,
+        "name": "Domi"
+    },
+    {
+        "roll": 250,
+        "name": "Doub"
+    },
+    {
+        "roll": 251,
+        "name": "Draco"
+    },
+    {
+        "roll": 252,
+        "name": "Dracu"
+    },
+    {
+        "roll": 253,
+        "name": "Drago"
+    },
+    {
+        "roll": 254,
+        "name": "Drap"
+    },
+    {
+        "roll": 255,
+        "name": "Dreama"
+    },
+    {
+        "roll": 256,
+        "name": "Dref"
+    },
+    {
+        "roll": 257,
+        "name": "Drip"
+    },
+    {
+        "roll": 258,
+        "name": "Dro"
+    },
+    {
+        "roll": 259,
+        "name": "Drono"
+    },
+    {
+        "roll": 260,
+        "name": "Du"
+    },
+    {
+        "roll": 261,
+        "name": "Dual"
+    },
+    {
+        "roll": 262,
+        "name": "Duo"
+    },
+    {
+        "roll": 263,
+        "name": "Dy"
+    },
+    {
+        "roll": 264,
+        "name": "Dyna"
+    },
+    {
+        "roll": 265,
+        "name": "Dyno"
+    },
+    {
+        "roll": 266,
+        "name": "Dyp"
+    },
+    {
+        "roll": 267,
+        "name": "Dys"
+    },
+    {
+        "roll": 268,
+        "name": "E"
+    },
+    {
+        "roll": 269,
+        "name": "Ea"
+    },
+    {
+        "roll": 270,
+        "name": "Echo"
+    },
+    {
+        "roll": 271,
+        "name": "Eco"
+    },
+    {
+        "roll": 272,
+        "name": "Ego"
+    },
+    {
+        "roll": 273,
+        "name": "El"
+    },
+    {
+        "roll": 274,
+        "name": "Ele"
+    },
+    {
+        "roll": 275,
+        "name": "Electro"
+    },
+    {
+        "roll": 276,
+        "name": "Elita"
+    },
+    {
+        "roll": 277,
+        "name": "Ell"
+    },
+    {
+        "roll": 278,
+        "name": "Elo"
+    },
+    {
+        "roll": 279,
+        "name": "Embry"
+    },
+    {
+        "roll": 280,
+        "name": "Empi"
+    },
+    {
+        "roll": 281,
+        "name": "Empiro"
+    },
+    {
+        "roll": 282,
+        "name": "Ener"
+    },
+    {
+        "roll": 283,
+        "name": "Enigma"
+    },
+    {
+        "roll": 284,
+        "name": "Ense"
+    },
+    {
+        "roll": 285,
+        "name": "Enyo"
+    },
+    {
+        "roll": 286,
+        "name": "Ephro"
+    },
+    {
+        "roll": 287,
+        "name": "Epi"
+    },
+    {
+        "roll": 288,
+        "name": "Ergo"
+    },
+    {
+        "roll": 289,
+        "name": "Eri"
+    },
+    {
+        "roll": 290,
+        "name": "Ery"
+    },
+    {
+        "roll": 291,
+        "name": "Eryxa"
+    },
+    {
+        "roll": 292,
+        "name": "Eu"
+    },
+    {
+        "roll": 293,
+        "name": "Euro"
+    },
+    {
+        "roll": 294,
+        "name": "Euroto"
+    },
+    {
+        "roll": 295,
+        "name": "Eva"
+    },
+    {
+        "roll": 296,
+        "name": "Ex"
+    },
+    {
+        "roll": 297,
+        "name": "Exa"
+    },
+    {
+        "roll": 298,
+        "name": "Exer"
+    },
+    {
+        "roll": 299,
+        "name": "Exo"
+    },
+    {
+        "roll": 300,
+        "name": "Extra"
+    },
+    {
+        "roll": 301,
+        "name": "Fa"
+    },
+    {
+        "roll": 302,
+        "name": "Facto"
+    },
+    {
+        "roll": 303,
+        "name": "Fal"
+    },
+    {
+        "roll": 304,
+        "name": "Falco"
+    },
+    {
+        "roll": 305,
+        "name": "Faxo"
+    },
+    {
+        "roll": 306,
+        "name": "Fe"
+    },
+    {
+        "roll": 307,
+        "name": "Fef"
+    },
+    {
+        "roll": 308,
+        "name": "Femi"
+    },
+    {
+        "roll": 309,
+        "name": "Femmi"
+    },
+    {
+        "roll": 310,
+        "name": "Femto"
+    },
+    {
+        "roll": 311,
+        "name": "Fetu"
+    },
+    {
+        "roll": 312,
+        "name": "Fi"
+    },
+    {
+        "roll": 313,
+        "name": "Fia"
+    },
+    {
+        "roll": 314,
+        "name": "Fir"
+    },
+    {
+        "roll": 315,
+        "name": "Fire"
+    },
+    {
+        "roll": 316,
+        "name": "Flexi"
+    },
+    {
+        "roll": 317,
+        "name": "Fo"
+    },
+    {
+        "roll": 318,
+        "name": "For"
+    },
+    {
+        "roll": 319,
+        "name": "Formi"
+    },
+    {
+        "roll": 320,
+        "name": "Forti"
+    },
+    {
+        "roll": 321,
+        "name": "Fortre"
+    },
+    {
+        "roll": 322,
+        "name": "Fortu"
+    },
+    {
+        "roll": 323,
+        "name": "Forwa"
+    },
+    {
+        "roll": 324,
+        "name": "Fra"
+    },
+    {
+        "roll": 325,
+        "name": "Fu"
+    },
+    {
+        "roll": 326,
+        "name": "Fuc"
+    },
+    {
+        "roll": 327,
+        "name": "Fuch"
+    },
+    {
+        "roll": 328,
+        "name": "Fud"
+    },
+    {
+        "roll": 329,
+        "name": "Futura"
+    },
+    {
+        "roll": 330,
+        "name": "Ga"
+    },
+    {
+        "roll": 331,
+        "name": "Galacti"
+    },
+    {
+        "roll": 332,
+        "name": "Galacto"
+    },
+    {
+        "roll": 333,
+        "name": "Galva"
+    },
+    {
+        "roll": 334,
+        "name": "Gamma"
+    },
+    {
+        "roll": 335,
+        "name": "Gamo"
+    },
+    {
+        "roll": 336,
+        "name": "Ge"
+    },
+    {
+        "roll": 337,
+        "name": "Gea"
+    },
+    {
+        "roll": 338,
+        "name": "Geni"
+    },
+    {
+        "roll": 339,
+        "name": "Geno"
+    },
+    {
+        "roll": 340,
+        "name": "Geo"
+    },
+    {
+        "roll": 341,
+        "name": "Gi"
+    },
+    {
+        "roll": 342,
+        "name": "Gia"
+    },
+    {
+        "roll": 343,
+        "name": "Giga"
+    },
+    {
+        "roll": 344,
+        "name": "Giganto"
+    },
+    {
+        "roll": 345,
+        "name": "Gloto"
+    },
+    {
+        "roll": 346,
+        "name": "Go"
+    },
+    {
+        "roll": 347,
+        "name": "God"
+    },
+    {
+        "roll": 348,
+        "name": "Gra"
+    },
+    {
+        "roll": 349,
+        "name": "Gran"
+    },
+    {
+        "roll": 350,
+        "name": "Grana"
+    },
+    {
+        "roll": 351,
+        "name": "Gro"
+    },
+    {
+        "roll": 352,
+        "name": "Grud"
+    },
+    {
+        "roll": 353,
+        "name": "Gu"
+    },
+    {
+        "roll": 354,
+        "name": "Gya"
+    },
+    {
+        "roll": 355,
+        "name": "Gyo"
+    },
+    {
+        "roll": 356,
+        "name": "Gyro"
+    },
+    {
+        "roll": 357,
+        "name": "Ha"
+    },
+    {
+        "roll": 358,
+        "name": "Hade"
+    },
+    {
+        "roll": 359,
+        "name": "Hal"
+    },
+    {
+        "roll": 360,
+        "name": "Halcy"
+    },
+    {
+        "roll": 361,
+        "name": "Halo"
+    },
+    {
+        "roll": 362,
+        "name": "Haplo"
+    },
+    {
+        "roll": 363,
+        "name": "Harmo"
+    },
+    {
+        "roll": 364,
+        "name": "He"
+    },
+    {
+        "roll": 365,
+        "name": "Heka"
+    },
+    {
+        "roll": 366,
+        "name": "Heli"
+    },
+    {
+        "roll": 367,
+        "name": "Helio"
+    },
+    {
+        "roll": 368,
+        "name": "Hemi"
+    },
+    {
+        "roll": 369,
+        "name": "Hemo"
+    },
+    {
+        "roll": 370,
+        "name": "Hepato"
+    },
+    {
+        "roll": 371,
+        "name": "Hepta"
+    },
+    {
+        "roll": 372,
+        "name": "Hercu"
+    },
+    {
+        "roll": 373,
+        "name": "Hero"
+    },
+    {
+        "roll": 374,
+        "name": "Hetero"
+    },
+    {
+        "roll": 375,
+        "name": "Hexa"
+    },
+    {
+        "roll": 376,
+        "name": "Hexi"
+    },
+    {
+        "roll": 377,
+        "name": "Hi"
+    },
+    {
+        "roll": 378,
+        "name": "Hi-"
+    },
+    {
+        "roll": 379,
+        "name": "Hia"
+    },
+    {
+        "roll": 380,
+        "name": "Hippa"
+    },
+    {
+        "roll": 381,
+        "name": "Hippo"
+    },
+    {
+        "roll": 382,
+        "name": "Histo"
+    },
+    {
+        "roll": 383,
+        "name": "Ho"
+    },
+    {
+        "roll": 384,
+        "name": "Holo"
+    },
+    {
+        "roll": 385,
+        "name": "Homeo"
+    },
+    {
+        "roll": 386,
+        "name": "Homi"
+    },
+    {
+        "roll": 387,
+        "name": "Homino"
+    },
+    {
+        "roll": 388,
+        "name": "Homo"
+    },
+    {
+        "roll": 389,
+        "name": "Hoop"
+    },
+    {
+        "roll": 390,
+        "name": "Horri"
+    },
+    {
+        "roll": 391,
+        "name": "Hu"
+    },
+    {
+        "roll": 392,
+        "name": "Huma"
+    },
+    {
+        "roll": 393,
+        "name": "Hurri"
+    },
+    {
+        "roll": 394,
+        "name": "Husmy"
+    },
+    {
+        "roll": 395,
+        "name": "Hy"
+    },
+    {
+        "roll": 396,
+        "name": "Hya"
+    },
+    {
+        "roll": 397,
+        "name": "Hydra"
+    },
+    {
+        "roll": 398,
+        "name": "Hydro"
+    },
+    {
+        "roll": 399,
+        "name": "Hyo"
+    },
+    {
+        "roll": 400,
+        "name": "Hyper"
+    },
+    {
+        "roll": 401,
+        "name": "Hypno"
+    },
+    {
+        "roll": 402,
+        "name": "Hyu"
+    },
+    {
+        "roll": 403,
+        "name": "I"
+    },
+    {
+        "roll": 404,
+        "name": "Ica"
+    },
+    {
+        "roll": 405,
+        "name": "Ico"
+    },
+    {
+        "roll": 406,
+        "name": "Ideo"
+    },
+    {
+        "roll": 407,
+        "name": "Immorta"
+    },
+    {
+        "roll": 408,
+        "name": "In"
+    },
+    {
+        "roll": 409,
+        "name": "Infa"
+    },
+    {
+        "roll": 410,
+        "name": "Infe"
+    },
+    {
+        "roll": 411,
+        "name": "Inferno"
+    },
+    {
+        "roll": 412,
+        "name": "Infi"
+    },
+    {
+        "roll": 413,
+        "name": "Infra"
+    },
+    {
+        "roll": 414,
+        "name": "Inno"
+    },
+    {
+        "roll": 415,
+        "name": "Inpha"
+    },
+    {
+        "roll": 416,
+        "name": "Inse"
+    },
+    {
+        "roll": 417,
+        "name": "Insi"
+    },
+    {
+        "roll": 418,
+        "name": "Inter"
+    },
+    {
+        "roll": 419,
+        "name": "Intro"
+    },
+    {
+        "roll": 420,
+        "name": "Iro"
+    },
+    {
+        "roll": 421,
+        "name": "Iron"
+    },
+    {
+        "roll": 422,
+        "name": "Iso"
+    },
+    {
+        "roll": 423,
+        "name": "Ja"
+    },
+    {
+        "roll": 424,
+        "name": "Jaf"
+    },
+    {
+        "roll": 425,
+        "name": "Janu"
+    },
+    {
+        "roll": 426,
+        "name": "Jay"
+    },
+    {
+        "roll": 427,
+        "name": "Je"
+    },
+    {
+        "roll": 428,
+        "name": "Jet"
+    },
+    {
+        "roll": 429,
+        "name": "Ji"
+    },
+    {
+        "roll": 430,
+        "name": "Jo"
+    },
+    {
+        "roll": 431,
+        "name": "Ju"
+    },
+    {
+        "roll": 432,
+        "name": "Juli"
+    },
+    {
+        "roll": 433,
+        "name": "Juno"
+    },
+    {
+        "roll": 434,
+        "name": "Jupi"
+    },
+    {
+        "roll": 435,
+        "name": "Jura"
+    },
+    {
+        "roll": 436,
+        "name": "Ka"
+    },
+    {
+        "roll": 437,
+        "name": "Kaa"
+    },
+    {
+        "roll": 438,
+        "name": "Kai"
+    },
+    {
+        "roll": 439,
+        "name": "Kali"
+    },
+    {
+        "roll": 440,
+        "name": "Kanga"
+    },
+    {
+        "roll": 441,
+        "name": "Kango"
+    },
+    {
+        "roll": 442,
+        "name": "Kao"
+    },
+    {
+        "roll": 443,
+        "name": "Kay"
+    },
+    {
+        "roll": 444,
+        "name": "Ke"
+    },
+    {
+        "roll": 445,
+        "name": "Keno"
+    },
+    {
+        "roll": 446,
+        "name": "Ki"
+    },
+    {
+        "roll": 447,
+        "name": "Kia"
+    },
+    {
+        "roll": 448,
+        "name": "Kii"
+    },
+    {
+        "roll": 449,
+        "name": "Kila"
+    },
+    {
+        "roll": 450,
+        "name": "Kilo"
+    },
+    {
+        "roll": 451,
+        "name": "Kine"
+    },
+    {
+        "roll": 452,
+        "name": "Ko"
+    },
+    {
+        "roll": 453,
+        "name": "Koa"
+    },
+    {
+        "roll": 454,
+        "name": "Koo"
+    },
+    {
+        "roll": 455,
+        "name": "Kosmiko"
+    },
+    {
+        "roll": 456,
+        "name": "Kosmo"
+    },
+    {
+        "roll": 457,
+        "name": "Kra"
+    },
+    {
+        "roll": 458,
+        "name": "Kry"
+    },
+    {
+        "roll": 459,
+        "name": "Kryna"
+    },
+    {
+        "roll": 460,
+        "name": "Kryo"
+    },
+    {
+        "roll": 461,
+        "name": "Krypto"
+    },
+    {
+        "roll": 462,
+        "name": "Krys"
+    },
+    {
+        "roll": 463,
+        "name": "Kryte"
+    },
+    {
+        "roll": 464,
+        "name": "Ku"
+    },
+    {
+        "roll": 465,
+        "name": "Kya"
+    },
+    {
+        "roll": 466,
+        "name": "Kyo"
+    },
+    {
+        "roll": 467,
+        "name": "Kyu"
+    },
+    {
+        "roll": 468,
+        "name": "La"
+    },
+    {
+        "roll": 469,
+        "name": "Laser"
+    },
+    {
+        "roll": 470,
+        "name": "Lasi"
+    },
+    {
+        "roll": 471,
+        "name": "Laxa"
+    },
+    {
+        "roll": 472,
+        "name": "Le"
+    },
+    {
+        "roll": 473,
+        "name": "Lego"
+    },
+    {
+        "roll": 474,
+        "name": "Lena"
+    },
+    {
+        "roll": 475,
+        "name": "Leni"
+    },
+    {
+        "roll": 476,
+        "name": "Leo"
+    },
+    {
+        "roll": 477,
+        "name": "Leuko"
+    },
+    {
+        "roll": 478,
+        "name": "Lexa"
+    },
+    {
+        "roll": 479,
+        "name": "Lexi"
+    },
+    {
+        "roll": 480,
+        "name": "Li"
+    },
+    {
+        "roll": 481,
+        "name": "Lia"
+    },
+    {
+        "roll": 482,
+        "name": "Light"
+    },
+    {
+        "roll": 483,
+        "name": "Link"
+    },
+    {
+        "roll": 484,
+        "name": "Lino"
+    },
+    {
+        "roll": 485,
+        "name": "Linu"
+    },
+    {
+        "roll": 486,
+        "name": "Lite"
+    },
+    {
+        "roll": 487,
+        "name": "Lo"
+    },
+    {
+        "roll": 488,
+        "name": "Lobo"
+    },
+    {
+        "roll": 489,
+        "name": "Logo"
+    },
+    {
+        "roll": 490,
+        "name": "Loki"
+    },
+    {
+        "roll": 491,
+        "name": "Loli"
+    },
+    {
+        "roll": 492,
+        "name": "Lordi"
+    },
+    {
+        "roll": 493,
+        "name": "Lori"
+    },
+    {
+        "roll": 494,
+        "name": "Lu"
+    },
+    {
+        "roll": 495,
+        "name": "Luna"
+    },
+    {
+        "roll": 496,
+        "name": "Lydi"
+    },
+    {
+        "roll": 497,
+        "name": "Lystra"
+    },
+    {
+        "roll": 498,
+        "name": "Ma"
+    },
+    {
+        "roll": 499,
+        "name": "Machi"
+    },
+    {
+        "roll": 500,
+        "name": "Macro"
+    },
+    {
+        "roll": 501,
+        "name": "Maga"
+    },
+    {
+        "roll": 502,
+        "name": "Magna"
+    },
+    {
+        "roll": 503,
+        "name": "Mal"
+    },
+    {
+        "roll": 504,
+        "name": "Malaxo"
+    },
+    {
+        "roll": 505,
+        "name": "Mana"
+    },
+    {
+        "roll": 506,
+        "name": "Manni"
+    },
+    {
+        "roll": 507,
+        "name": "Manno"
+    },
+    {
+        "roll": 508,
+        "name": "Mar"
+    },
+    {
+        "roll": 509,
+        "name": "Mara"
+    },
+    {
+        "roll": 510,
+        "name": "Marvi"
+    },
+    {
+        "roll": 511,
+        "name": "Masi"
+    },
+    {
+        "roll": 512,
+        "name": "Massi"
+    },
+    {
+        "roll": 513,
+        "name": "Mata"
+    },
+    {
+        "roll": 514,
+        "name": "Matri"
+    },
+    {
+        "roll": 515,
+        "name": "Maxa"
+    },
+    {
+        "roll": 516,
+        "name": "Maxi"
+    },
+    {
+        "roll": 517,
+        "name": "Maxima"
+    },
+    {
+        "roll": 518,
+        "name": "Mazo"
+    },
+    {
+        "roll": 519,
+        "name": "Me"
+    },
+    {
+        "roll": 520,
+        "name": "Mecha"
+    },
+    {
+        "roll": 521,
+        "name": "Mechi"
+    },
+    {
+        "roll": 522,
+        "name": "Medi"
+    },
+    {
+        "roll": 523,
+        "name": "Medu"
+    },
+    {
+        "roll": 524,
+        "name": "Mega"
+    },
+    {
+        "roll": 525,
+        "name": "Mekka"
+    },
+    {
+        "roll": 526,
+        "name": "Mela"
+    },
+    {
+        "roll": 527,
+        "name": "Melo"
+    },
+    {
+        "roll": 528,
+        "name": "Melona"
+    },
+    {
+        "roll": 529,
+        "name": "Melono"
+    },
+    {
+        "roll": 530,
+        "name": "Mem"
+    },
+    {
+        "roll": 531,
+        "name": "Memo"
+    },
+    {
+        "roll": 532,
+        "name": "Mercen"
+    },
+    {
+        "roll": 533,
+        "name": "Merci"
+    },
+    {
+        "roll": 534,
+        "name": "Mercu"
+    },
+    {
+        "roll": 535,
+        "name": "Meta"
+    },
+    {
+        "roll": 536,
+        "name": "Metri"
+    },
+    {
+        "roll": 537,
+        "name": "Metro"
+    },
+    {
+        "roll": 538,
+        "name": "Mezza"
+    },
+    {
+        "roll": 539,
+        "name": "Mi"
+    },
+    {
+        "roll": 540,
+        "name": "Micro"
+    },
+    {
+        "roll": 541,
+        "name": "Midi"
+    },
+    {
+        "roll": 542,
+        "name": "Milla"
+    },
+    {
+        "roll": 543,
+        "name": "Milli"
+    },
+    {
+        "roll": 544,
+        "name": "Mina"
+    },
+    {
+        "roll": 545,
+        "name": "Mini"
+    },
+    {
+        "roll": 546,
+        "name": "Minima"
+    },
+    {
+        "roll": 547,
+        "name": "Minmi"
+    },
+    {
+        "roll": 548,
+        "name": "Minu"
+    },
+    {
+        "roll": 549,
+        "name": "Miri"
+    },
+    {
+        "roll": 550,
+        "name": "Mixi"
+    },
+    {
+        "roll": 551,
+        "name": "Mlito"
+    },
+    {
+        "roll": 552,
+        "name": "Mo"
+    },
+    {
+        "roll": 553,
+        "name": "Mobi"
+    },
+    {
+        "roll": 554,
+        "name": "Modo"
+    },
+    {
+        "roll": 555,
+        "name": "Modu"
+    },
+    {
+        "roll": 556,
+        "name": "Modula"
+    },
+    {
+        "roll": 557,
+        "name": "Moni"
+    },
+    {
+        "roll": 558,
+        "name": "Mono"
+    },
+    {
+        "roll": 559,
+        "name": "Moo"
+    },
+    {
+        "roll": 560,
+        "name": "Moon"
+    },
+    {
+        "roll": 561,
+        "name": "Morpho"
+    },
+    {
+        "roll": 562,
+        "name": "Morta"
+    },
+    {
+        "roll": 563,
+        "name": "Mother-"
+    },
+    {
+        "roll": 564,
+        "name": "Motio"
+    },
+    {
+        "roll": 565,
+        "name": "Moto"
+    },
+    {
+        "roll": 566,
+        "name": "Mu"
+    },
+    {
+        "roll": 567,
+        "name": "Multi"
+    },
+    {
+        "roll": 568,
+        "name": "Musa"
+    },
+    {
+        "roll": 569,
+        "name": "Musi"
+    },
+    {
+        "roll": 570,
+        "name": "Muso"
+    },
+    {
+        "roll": 571,
+        "name": "Muta"
+    },
+    {
+        "roll": 572,
+        "name": "Muti"
+    },
+    {
+        "roll": 573,
+        "name": "My"
+    },
+    {
+        "roll": 574,
+        "name": "Mya"
+    },
+    {
+        "roll": 575,
+        "name": "Myco"
+    },
+    {
+        "roll": 576,
+        "name": "Myo"
+    },
+    {
+        "roll": 577,
+        "name": "Myrmi"
+    },
+    {
+        "roll": 578,
+        "name": "Myro"
+    },
+    {
+        "roll": 579,
+        "name": "Myxo"
+    },
+    {
+        "roll": 580,
+        "name": "N"
+    },
+    {
+        "roll": 581,
+        "name": "Na"
+    },
+    {
+        "roll": 582,
+        "name": "Nano"
+    },
+    {
+        "roll": 583,
+        "name": "Narci"
+    },
+    {
+        "roll": 584,
+        "name": "Nasp"
+    },
+    {
+        "roll": 585,
+        "name": "Ne"
+    },
+    {
+        "roll": 586,
+        "name": "Nebu"
+    },
+    {
+        "roll": 587,
+        "name": "Nebula"
+    },
+    {
+        "roll": 588,
+        "name": "Necro"
+    },
+    {
+        "roll": 589,
+        "name": "Neme"
+    },
+    {
+        "roll": 590,
+        "name": "Nemesi"
+    },
+    {
+        "roll": 591,
+        "name": "Nen"
+    },
+    {
+        "roll": 592,
+        "name": "Neo"
+    },
+    {
+        "roll": 593,
+        "name": "Nepha"
+    },
+    {
+        "roll": 594,
+        "name": "Nepto"
+    },
+    {
+        "roll": 595,
+        "name": "Neptu"
+    },
+    {
+        "roll": 596,
+        "name": "Nero"
+    },
+    {
+        "roll": 597,
+        "name": "Nesp"
+    },
+    {
+        "roll": 598,
+        "name": "Neu"
+    },
+    {
+        "roll": 599,
+        "name": "Neuro"
+    },
+    {
+        "roll": 600,
+        "name": "Neutro"
+    },
+    {
+        "roll": 601,
+        "name": "Nexo"
+    },
+    {
+        "roll": 602,
+        "name": "Nexu"
+    },
+    {
+        "roll": 603,
+        "name": "Ni"
+    },
+    {
+        "roll": 604,
+        "name": "Nico"
+    },
+    {
+        "roll": 605,
+        "name": "Niger"
+    },
+    {
+        "roll": 606,
+        "name": "Niki"
+    },
+    {
+        "roll": 607,
+        "name": "Nissa"
+    },
+    {
+        "roll": 608,
+        "name": "No"
+    },
+    {
+        "roll": 609,
+        "name": "Noki"
+    },
+    {
+        "roll": 610,
+        "name": "Noko"
+    },
+    {
+        "roll": 611,
+        "name": "Nona"
+    },
+    {
+        "roll": 612,
+        "name": "Noni"
+    },
+    {
+        "roll": 613,
+        "name": "Nosp"
+    },
+    {
+        "roll": 614,
+        "name": "Nou"
+    },
+    {
+        "roll": 615,
+        "name": "Nova"
+    },
+    {
+        "roll": 616,
+        "name": "Nu"
+    },
+    {
+        "roll": 617,
+        "name": "Nupri"
+    },
+    {
+        "roll": 618,
+        "name": "Ny"
+    },
+    {
+        "roll": 619,
+        "name": "Nya"
+    },
+    {
+        "roll": 620,
+        "name": "Nympho"
+    },
+    {
+        "roll": 621,
+        "name": "Nyo"
+    },
+    {
+        "roll": 622,
+        "name": "Nys"
+    },
+    {
+        "roll": 623,
+        "name": "Nyu"
+    },
+    {
+        "roll": 624,
+        "name": "O"
+    },
+    {
+        "roll": 625,
+        "name": "Obe"
+    },
+    {
+        "roll": 626,
+        "name": "Octo"
+    },
+    {
+        "roll": 627,
+        "name": "Odessa"
+    },
+    {
+        "roll": 628,
+        "name": "Oly"
+    },
+    {
+        "roll": 629,
+        "name": "Omega"
+    },
+    {
+        "roll": 630,
+        "name": "Omni"
+    },
+    {
+        "roll": 631,
+        "name": "Omo"
+    },
+    {
+        "roll": 632,
+        "name": "Omorphia"
+    },
+    {
+        "roll": 633,
+        "name": "Ooh"
+    },
+    {
+        "roll": 634,
+        "name": "Opti"
+    },
+    {
+        "roll": 635,
+        "name": "Optimo"
+    },
+    {
+        "roll": 636,
+        "name": "Opto"
+    },
+    {
+        "roll": 637,
+        "name": "Ora"
+    },
+    {
+        "roll": 638,
+        "name": "Oscilla"
+    },
+    {
+        "roll": 639,
+        "name": "Osy"
+    },
+    {
+        "roll": 640,
+        "name": "Outer"
+    },
+    {
+        "roll": 641,
+        "name": "Oxy"
+    },
+    {
+        "roll": 642,
+        "name": "Pa"
+    },
+    {
+        "roll": 643,
+        "name": "Pago"
+    },
+    {
+        "roll": 644,
+        "name": "Paleo"
+    },
+    {
+        "roll": 645,
+        "name": "Pan"
+    },
+    {
+        "roll": 646,
+        "name": "Pana"
+    },
+    {
+        "roll": 647,
+        "name": "Panda"
+    },
+    {
+        "roll": 648,
+        "name": "Pando"
+    },
+    {
+        "roll": 649,
+        "name": "Pangi"
+    },
+    {
+        "roll": 650,
+        "name": "Pano"
+    },
+    {
+        "roll": 651,
+        "name": "Papa"
+    },
+    {
+        "roll": 652,
+        "name": "Para"
+    },
+    {
+        "roll": 653,
+        "name": "Pe"
+    },
+    {
+        "roll": 654,
+        "name": "Pecto"
+    },
+    {
+        "roll": 655,
+        "name": "Pee"
+    },
+    {
+        "roll": 656,
+        "name": "Pega"
+    },
+    {
+        "roll": 657,
+        "name": "Pena"
+    },
+    {
+        "roll": 658,
+        "name": "Pene"
+    },
+    {
+        "roll": 659,
+        "name": "Penelo"
+    },
+    {
+        "roll": 660,
+        "name": "Penni"
+    },
+    {
+        "roll": 661,
+        "name": "Penta"
+    },
+    {
+        "roll": 662,
+        "name": "Pente"
+    },
+    {
+        "roll": 663,
+        "name": "Peri"
+    },
+    {
+        "roll": 664,
+        "name": "Pero"
+    },
+    {
+        "roll": 665,
+        "name": "Perse"
+    },
+    {
+        "roll": 666,
+        "name": "Persepho"
+    },
+    {
+        "roll": 667,
+        "name": "Peta"
+    },
+    {
+        "roll": 668,
+        "name": "Pexi"
+    },
+    {
+        "roll": 669,
+        "name": "Pha"
+    },
+    {
+        "roll": 670,
+        "name": "Phalli"
+    },
+    {
+        "roll": 671,
+        "name": "Phanta"
+    },
+    {
+        "roll": 672,
+        "name": "Pharma"
+    },
+    {
+        "roll": 673,
+        "name": "Phaser"
+    },
+    {
+        "roll": 674,
+        "name": "Phe"
+    },
+    {
+        "roll": 675,
+        "name": "Phea"
+    },
+    {
+        "roll": 676,
+        "name": "Phedra"
+    },
+    {
+        "roll": 677,
+        "name": "Phene"
+    },
+    {
+        "roll": 678,
+        "name": "Pheno"
+    },
+    {
+        "roll": 679,
+        "name": "Phi"
+    },
+    {
+        "roll": 680,
+        "name": "Phila"
+    },
+    {
+        "roll": 681,
+        "name": "Philo"
+    },
+    {
+        "roll": 682,
+        "name": "Pho"
+    },
+    {
+        "roll": 683,
+        "name": "Photo"
+    },
+    {
+        "roll": 684,
+        "name": "Phy"
+    },
+    {
+        "roll": 685,
+        "name": "Physio"
+    },
+    {
+        "roll": 686,
+        "name": "Pi"
+    },
+    {
+        "roll": 687,
+        "name": "Pia"
+    },
+    {
+        "roll": 688,
+        "name": "Pico"
+    },
+    {
+        "roll": 689,
+        "name": "Pina"
+    },
+    {
+        "roll": 690,
+        "name": "Pino"
+    },
+    {
+        "roll": 691,
+        "name": "Pixi"
+    },
+    {
+        "roll": 692,
+        "name": "Pla"
+    },
+    {
+        "roll": 693,
+        "name": "Place"
+    },
+    {
+        "roll": 694,
+        "name": "Plane"
+    },
+    {
+        "roll": 695,
+        "name": "Plar"
+    },
+    {
+        "roll": 696,
+        "name": "Plasmo"
+    },
+    {
+        "roll": 697,
+        "name": "Plato"
+    },
+    {
+        "roll": 698,
+        "name": "Platta"
+    },
+    {
+        "roll": 699,
+        "name": "Platti"
+    },
+    {
+        "roll": 700,
+        "name": "Plexi"
+    },
+    {
+        "roll": 701,
+        "name": "Plor"
+    },
+    {
+        "roll": 702,
+        "name": "Plu"
+    },
+    {
+        "roll": 703,
+        "name": "Plura"
+    },
+    {
+        "roll": 704,
+        "name": "Pluto"
+    },
+    {
+        "roll": 705,
+        "name": "Po"
+    },
+    {
+        "roll": 706,
+        "name": "Pole"
+    },
+    {
+        "roll": 707,
+        "name": "Poly"
+    },
+    {
+        "roll": 708,
+        "name": "Popla"
+    },
+    {
+        "roll": 709,
+        "name": "Posei"
+    },
+    {
+        "roll": 710,
+        "name": "Posi"
+    },
+    {
+        "roll": 711,
+        "name": "Post"
+    },
+    {
+        "roll": 712,
+        "name": "Posto"
+    },
+    {
+        "roll": 713,
+        "name": "Pre"
+    },
+    {
+        "roll": 714,
+        "name": "Prem"
+    },
+    {
+        "roll": 715,
+        "name": "Premiu"
+    },
+    {
+        "roll": 716,
+        "name": "Prima"
+    },
+    {
+        "roll": 717,
+        "name": "Primo"
+    },
+    {
+        "roll": 718,
+        "name": "Pro"
+    },
+    {
+        "roll": 719,
+        "name": "Proeto"
+    },
+    {
+        "roll": 720,
+        "name": "Proto"
+    },
+    {
+        "roll": 721,
+        "name": "Pseudo"
+    },
+    {
+        "roll": 722,
+        "name": "Psi"
+    },
+    {
+        "roll": 723,
+        "name": "Psy"
+    },
+    {
+        "roll": 724,
+        "name": "Psycha"
+    },
+    {
+        "roll": 725,
+        "name": "Psycho"
+    },
+    {
+        "roll": 726,
+        "name": "Psyno"
+    },
+    {
+        "roll": 727,
+        "name": "Pu"
+    },
+    {
+        "roll": 728,
+        "name": "Pya"
+    },
+    {
+        "roll": 729,
+        "name": "Pyo"
+    },
+    {
+        "roll": 730,
+        "name": "Pyra"
+    },
+    {
+        "roll": 731,
+        "name": "Pyrena"
+    },
+    {
+        "roll": 732,
+        "name": "Pyro"
+    },
+    {
+        "roll": 733,
+        "name": "Pyu"
+    },
+    {
+        "roll": 734,
+        "name": "Qua"
+    },
+    {
+        "roll": 735,
+        "name": "Quadra"
+    },
+    {
+        "roll": 736,
+        "name": "Quanto"
+    },
+    {
+        "roll": 737,
+        "name": "Quantu"
+    },
+    {
+        "roll": 738,
+        "name": "Quasi"
+    },
+    {
+        "roll": 739,
+        "name": "Quatro"
+    },
+    {
+        "roll": 740,
+        "name": "Que"
+    },
+    {
+        "roll": 741,
+        "name": "Qui"
+    },
+    {
+        "roll": 742,
+        "name": "Quik"
+    },
+    {
+        "roll": 743,
+        "name": "Quinti"
+    },
+    {
+        "roll": 744,
+        "name": "Quo"
+    },
+    {
+        "roll": 745,
+        "name": "Ra"
+    },
+    {
+        "roll": 746,
+        "name": "Radi"
+    },
+    {
+        "roll": 747,
+        "name": "Radia"
+    },
+    {
+        "roll": 748,
+        "name": "Radio"
+    },
+    {
+        "roll": 749,
+        "name": "Radiu"
+    },
+    {
+        "roll": 750,
+        "name": "Ram"
+    },
+    {
+        "roll": 751,
+        "name": "Rama"
+    },
+    {
+        "roll": 752,
+        "name": "Rampa"
+    },
+    {
+        "roll": 753,
+        "name": "Ramsha"
+    },
+    {
+        "roll": 754,
+        "name": "Rani"
+    },
+    {
+        "roll": 755,
+        "name": "Rast"
+    },
+    {
+        "roll": 756,
+        "name": "Rava"
+    },
+    {
+        "roll": 757,
+        "name": "Ray"
+    },
+    {
+        "roll": 758,
+        "name": "Re"
+    },
+    {
+        "roll": 759,
+        "name": "Reco"
+    },
+    {
+        "roll": 760,
+        "name": "Red"
+    },
+    {
+        "roll": 761,
+        "name": "Regu"
+    },
+    {
+        "roll": 762,
+        "name": "Rena"
+    },
+    {
+        "roll": 763,
+        "name": "Repli"
+    },
+    {
+        "roll": 764,
+        "name": "Reta"
+    },
+    {
+        "roll": 765,
+        "name": "Retro"
+    },
+    {
+        "roll": 766,
+        "name": "Rewi"
+    },
+    {
+        "roll": 767,
+        "name": "Rexa"
+    },
+    {
+        "roll": 768,
+        "name": "Rexo"
+    },
+    {
+        "roll": 769,
+        "name": "Rhi"
+    },
+    {
+        "roll": 770,
+        "name": "Rhia"
+    },
+    {
+        "roll": 771,
+        "name": "Rhino"
+    },
+    {
+        "roll": 772,
+        "name": "Ri"
+    },
+    {
+        "roll": 773,
+        "name": "Ria"
+    },
+    {
+        "roll": 774,
+        "name": "Rino"
+    },
+    {
+        "roll": 775,
+        "name": "Rip"
+    },
+    {
+        "roll": 776,
+        "name": "Rive"
+    },
+    {
+        "roll": 777,
+        "name": "Riza"
+    },
+    {
+        "roll": 778,
+        "name": "Ro"
+    },
+    {
+        "roll": 779,
+        "name": "Robo"
+    },
+    {
+        "roll": 780,
+        "name": "Rove"
+    },
+    {
+        "roll": 781,
+        "name": "Ru"
+    },
+    {
+        "roll": 782,
+        "name": "Rya"
+    },
+    {
+        "roll": 783,
+        "name": "Ryu"
+    },
+    {
+        "roll": 784,
+        "name": "Sa"
+    },
+    {
+        "roll": 785,
+        "name": "Sana"
+    },
+    {
+        "roll": 786,
+        "name": "Sap"
+    },
+    {
+        "roll": 787,
+        "name": "Sapa"
+    },
+    {
+        "roll": 788,
+        "name": "Satur"
+    },
+    {
+        "roll": 789,
+        "name": "Sci"
+    },
+    {
+        "roll": 790,
+        "name": "Scie"
+    },
+    {
+        "roll": 791,
+        "name": "Sciento"
+    },
+    {
+        "roll": 792,
+        "name": "Screen"
+    },
+    {
+        "roll": 793,
+        "name": "Scylla"
+    },
+    {
+        "roll": 794,
+        "name": "Se"
+    },
+    {
+        "roll": 795,
+        "name": "See"
+    },
+    {
+        "roll": 796,
+        "name": "Semi"
+    },
+    {
+        "roll": 797,
+        "name": "Senti"
+    },
+    {
+        "roll": 798,
+        "name": "Sentia"
+    },
+    {
+        "roll": 799,
+        "name": "Sepi"
+    },
+    {
+        "roll": 800,
+        "name": "Septa"
+    },
+    {
+        "roll": 801,
+        "name": "Ses"
+    },
+    {
+        "roll": 802,
+        "name": "Seta"
+    },
+    {
+        "roll": 803,
+        "name": "Sexta"
+    },
+    {
+        "roll": 804,
+        "name": "Sexu"
+    },
+    {
+        "roll": 805,
+        "name": "Sha"
+    },
+    {
+        "roll": 806,
+        "name": "Shado"
+    },
+    {
+        "roll": 807,
+        "name": "Shi"
+    },
+    {
+        "roll": 808,
+        "name": "Shadow-"
+    },
+    {
+        "roll": 809,
+        "name": "Shi"
+    },
+    {
+        "roll": 810,
+        "name": "Shiva"
+    },
+    {
+        "roll": 811,
+        "name": "Sho"
+    },
+    {
+        "roll": 812,
+        "name": "Shu"
+    },
+    {
+        "roll": 813,
+        "name": "Sigma"
+    },
+    {
+        "roll": 814,
+        "name": "Silo"
+    },
+    {
+        "roll": 815,
+        "name": "Singu"
+    },
+    {
+        "roll": 816,
+        "name": "Sino"
+    },
+    {
+        "roll": 817,
+        "name": "Sky"
+    },
+    {
+        "roll": 818,
+        "name": "Sna"
+    },
+    {
+        "roll": 819,
+        "name": "Snej"
+    },
+    {
+        "roll": 820,
+        "name": "Sojh"
+    },
+    {
+        "roll": 821,
+        "name": "Sola"
+    },
+    {
+        "roll": 822,
+        "name": "Solar"
+    },
+    {
+        "roll": 823,
+        "name": "Soldi"
+    },
+    {
+        "roll": 824,
+        "name": "Soma"
+    },
+    {
+        "roll": 825,
+        "name": "Soni"
+    },
+    {
+        "roll": 826,
+        "name": "Sopu"
+    },
+    {
+        "roll": 827,
+        "name": "Space"
+    },
+    {
+        "roll": 828,
+        "name": "Spectro"
+    },
+    {
+        "roll": 829,
+        "name": "Stanza"
+    },
+    {
+        "roll": 830,
+        "name": "Star"
+    },
+    {
+        "roll": 831,
+        "name": "Ste"
+    },
+    {
+        "roll": 832,
+        "name": "Stella"
+    },
+    {
+        "roll": 833,
+        "name": "Ster"
+    },
+    {
+        "roll": 834,
+        "name": "Stereo"
+    },
+    {
+        "roll": 835,
+        "name": "Stra"
+    },
+    {
+        "roll": 836,
+        "name": "Strata"
+    },
+    {
+        "roll": 837,
+        "name": "Su"
+    },
+    {
+        "roll": 838,
+        "name": "Sub"
+    },
+    {
+        "roll": 839,
+        "name": "Sui"
+    },
+    {
+        "roll": 840,
+        "name": "Supo"
+    },
+    {
+        "roll": 841,
+        "name": "Supra"
+    },
+    {
+        "roll": 842,
+        "name": "Supre"
+    },
+    {
+        "roll": 843,
+        "name": "Swi"
+    },
+    {
+        "roll": 844,
+        "name": "Swipe"
+    },
+    {
+        "roll": 845,
+        "name": "Switch"
+    },
+    {
+        "roll": 846,
+        "name": "Sword"
+    },
+    {
+        "roll": 847,
+        "name": "Symme"
+    },
+    {
+        "roll": 848,
+        "name": "Syn"
+    },
+    {
+        "roll": 849,
+        "name": "Syne"
+    },
+    {
+        "roll": 850,
+        "name": "Synthe"
+    },
+    {
+        "roll": 851,
+        "name": "Sypa"
+    },
+    {
+        "roll": 852,
+        "name": "Systema"
+    },
+    {
+        "roll": 853,
+        "name": "Ta"
+    },
+    {
+        "roll": 854,
+        "name": "Tama"
+    },
+    {
+        "roll": 855,
+        "name": "Tamo"
+    },
+    {
+        "roll": 856,
+        "name": "Tanni"
+    },
+    {
+        "roll": 857,
+        "name": "Taxo"
+    },
+    {
+        "roll": 858,
+        "name": "Te"
+    },
+    {
+        "roll": 859,
+        "name": "Tea"
+    },
+    {
+        "roll": 860,
+        "name": "Techno"
+    },
+    {
+        "roll": 861,
+        "name": "Tee"
+    },
+    {
+        "roll": 862,
+        "name": "Tekka"
+    },
+    {
+        "roll": 863,
+        "name": "Tekla"
+    },
+    {
+        "roll": 864,
+        "name": "Tele"
+    },
+    {
+        "roll": 865,
+        "name": "Telexo"
+    },
+    {
+        "roll": 866,
+        "name": "Telo"
+    },
+    {
+        "roll": 867,
+        "name": "Tera"
+    },
+    {
+        "roll": 868,
+        "name": "Termi"
+    },
+    {
+        "roll": 869,
+        "name": "Terra"
+    },
+    {
+        "roll": 870,
+        "name": "Tetra"
+    },
+    {
+        "roll": 871,
+        "name": "Tetri"
+    },
+    {
+        "roll": 872,
+        "name": "Tetro"
+    },
+    {
+        "roll": 873,
+        "name": "Tha"
+    },
+    {
+        "roll": 874,
+        "name": "Thali"
+    },
+    {
+        "roll": 875,
+        "name": "Theo"
+    },
+    {
+        "roll": 876,
+        "name": "Tho"
+    },
+    {
+        "roll": 877,
+        "name": "Thore"
+    },
+    {
+        "roll": 878,
+        "name": "Thu"
+    },
+    {
+        "roll": 879,
+        "name": "Thunder"
+    },
+    {
+        "roll": 880,
+        "name": "Thundra"
+    },
+    {
+        "roll": 881,
+        "name": "Thy"
+    },
+    {
+        "roll": 882,
+        "name": "Ti"
+    },
+    {
+        "roll": 883,
+        "name": "Tita"
+    },
+    {
+        "roll": 884,
+        "name": "Titania"
+    },
+    {
+        "roll": 885,
+        "name": "To"
+    },
+    {
+        "roll": 886,
+        "name": "Torpo"
+    },
+    {
+        "roll": 887,
+        "name": "Toxi"
+    },
+    {
+        "roll": 888,
+        "name": "Tra"
+    },
+    {
+        "roll": 889,
+        "name": "Tran"
+    },
+    {
+        "roll": 890,
+        "name": "Trans"
+    },
+    {
+        "roll": 891,
+        "name": "Transa"
+    },
+    {
+        "roll": 892,
+        "name": "Tri"
+    },
+    {
+        "roll": 893,
+        "name": "Tria"
+    },
+    {
+        "roll": 894,
+        "name": "Trina"
+    },
+    {
+        "roll": 895,
+        "name": "Trio"
+    },
+    {
+        "roll": 896,
+        "name": "Tro"
+    },
+    {
+        "roll": 897,
+        "name": "Trona"
+    },
+    {
+        "roll": 898,
+        "name": "Troni"
+    },
+    {
+        "roll": 899,
+        "name": "Try"
+    },
+    {
+        "roll": 900,
+        "name": "Trypti"
+    },
+    {
+        "roll": 901,
+        "name": "Tsu"
+    },
+    {
+        "roll": 902,
+        "name": "Tubu"
+    },
+    {
+        "roll": 903,
+        "name": "Tycho"
+    },
+    {
+        "roll": 904,
+        "name": "Tyrana"
+    },
+    {
+        "roll": 905,
+        "name": "U"
+    },
+    {
+        "roll": 906,
+        "name": "Ubw"
+    },
+    {
+        "roll": 907,
+        "name": "Uch"
+    },
+    {
+        "roll": 908,
+        "name": "Ucha"
+    },
+    {
+        "roll": 909,
+        "name": "Ulti"
+    },
+    {
+        "roll": 910,
+        "name": "Ultima"
+    },
+    {
+        "roll": 911,
+        "name": "Ultra"
+    },
+    {
+        "roll": 912,
+        "name": "Uly"
+    },
+    {
+        "roll": 913,
+        "name": "Uni"
+    },
+    {
+        "roll": 914,
+        "name": "Ura"
+    },
+    {
+        "roll": 915,
+        "name": "Urano"
+    },
+    {
+        "roll": 916,
+        "name": "Va"
+    },
+    {
+        "roll": 917,
+        "name": "Ve"
+    },
+    {
+        "roll": 918,
+        "name": "Vee"
+    },
+    {
+        "roll": 919,
+        "name": "Vela"
+    },
+    {
+        "roll": 920,
+        "name": "Veloci"
+    },
+    {
+        "roll": 921,
+        "name": "Venu"
+    },
+    {
+        "roll": 922,
+        "name": "Verba"
+    },
+    {
+        "roll": 923,
+        "name": "Vero"
+    },
+    {
+        "roll": 924,
+        "name": "Vexi"
+    },
+    {
+        "roll": 925,
+        "name": "Vi"
+    },
+    {
+        "roll": 926,
+        "name": "Via"
+    },
+    {
+        "roll": 927,
+        "name": "Video"
+    },
+    {
+        "roll": 928,
+        "name": "Vio"
+    },
+    {
+        "roll": 929,
+        "name": "Viri"
+    },
+    {
+        "roll": 930,
+        "name": "Viru"
+    },
+    {
+        "roll": 931,
+        "name": "Vo"
+    },
+    {
+        "roll": 932,
+        "name": "Voco"
+    },
+    {
+        "roll": 933,
+        "name": "Vor"
+    },
+    {
+        "roll": 934,
+        "name": "Vu"
+    },
+    {
+        "roll": 935,
+        "name": "Vul"
+    },
+    {
+        "roll": 936,
+        "name": "Vulca"
+    },
+    {
+        "roll": 937,
+        "name": "Wa"
+    },
+    {
+        "roll": 938,
+        "name": "Wadra"
+    },
+    {
+        "roll": 939,
+        "name": "War"
+    },
+    {
+        "roll": 940,
+        "name": "We"
+    },
+    {
+        "roll": 941,
+        "name": "Why"
+    },
+    {
+        "roll": 942,
+        "name": "Wi"
+    },
+    {
+        "roll": 943,
+        "name": "Wo"
+    },
+    {
+        "roll": 944,
+        "name": "Wu"
+    },
+    {
+        "roll": 945,
+        "name": "Xa"
+    },
+    {
+        "roll": 946,
+        "name": "Xana"
+    },
+    {
+        "roll": 947,
+        "name": "Xanthe"
+    },
+    {
+        "roll": 948,
+        "name": "Xantho"
+    },
+    {
+        "roll": 949,
+        "name": "Xe"
+    },
+    {
+        "roll": 950,
+        "name": "Xena"
+    },
+    {
+        "roll": 951,
+        "name": "Xeni"
+    },
+    {
+        "roll": 952,
+        "name": "Xeno"
+    },
+    {
+        "roll": 953,
+        "name": "Xenu"
+    },
+    {
+        "roll": 954,
+        "name": "Xi"
+    },
+    {
+        "roll": 955,
+        "name": "Xia"
+    },
+    {
+        "roll": 956,
+        "name": "Xo"
+    },
+    {
+        "roll": 957,
+        "name": "Xu"
+    },
+    {
+        "roll": 958,
+        "name": "Xy"
+    },
+    {
+        "roll": 959,
+        "name": "Xyla"
+    },
+    {
+        "roll": 960,
+        "name": "Xylo"
+    },
+    {
+        "roll": 961,
+        "name": "Ya"
+    },
+    {
+        "roll": 962,
+        "name": "Yaa"
+    },
+    {
+        "roll": 963,
+        "name": "Yai"
+    },
+    {
+        "roll": 964,
+        "name": "Yao"
+    },
+    {
+        "roll": 965,
+        "name": "Yi"
+    },
+    {
+        "roll": 966,
+        "name": "Yo"
+    },
+    {
+        "roll": 967,
+        "name": "Yocto"
+    },
+    {
+        "roll": 968,
+        "name": "Yotta"
+    },
+    {
+        "roll": 969,
+        "name": "You"
+    },
+    {
+        "roll": 970,
+        "name": "Yu"
+    },
+    {
+        "roll": 971,
+        "name": "Za"
+    },
+    {
+        "roll": 972,
+        "name": "Zapa"
+    },
+    {
+        "roll": 973,
+        "name": "Zau"
+    },
+    {
+        "roll": 974,
+        "name": "Ze"
+    },
+    {
+        "roll": 975,
+        "name": "Zebi"
+    },
+    {
+        "roll": 976,
+        "name": "Zed"
+    },
+    {
+        "roll": 977,
+        "name": "Zefi"
+    },
+    {
+        "roll": 978,
+        "name": "Zefir"
+    },
+    {
+        "roll": 979,
+        "name": "Zela"
+    },
+    {
+        "roll": 980,
+        "name": "Zelia"
+    },
+    {
+        "roll": 981,
+        "name": "Zelo"
+    },
+    {
+        "roll": 982,
+        "name": "Zemmi"
+    },
+    {
+        "roll": 983,
+        "name": "Zeno"
+    },
+    {
+        "roll": 984,
+        "name": "Zephe"
+    },
+    {
+        "roll": 985,
+        "name": "Zepto"
+    },
+    {
+        "roll": 986,
+        "name": "Zero"
+    },
+    {
+        "roll": 987,
+        "name": "Zeta"
+    },
+    {
+        "roll": 988,
+        "name": "Zetta"
+    },
+    {
+        "roll": 989,
+        "name": "Zeuso"
+    },
+    {
+        "roll": 990,
+        "name": "Zho"
+    },
+    {
+        "roll": 991,
+        "name": "Zi"
+    },
+    {
+        "roll": 992,
+        "name": "Zir"
+    },
+    {
+        "roll": 993,
+        "name": "Zo"
+    },
+    {
+        "roll": 994,
+        "name": "Zoe"
+    },
+    {
+        "roll": 995,
+        "name": "Zoo"
+    },
+    {
+        "roll": 996,
+        "name": "Zoro"
+    },
+    {
+        "roll": 997,
+        "name": "Zoti"
+    },
+    {
+        "roll": 998,
+        "name": "Zotico"
+    },
+    {
+        "roll": 999,
+        "name": "Zu"
+    },
+    {
+        "roll": 1000,
+        "name": "Zyr"
+    }
+]

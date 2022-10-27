@@ -1,1 +1,172 @@
-[{"id":435,"roll":0,"name":"Class D","code":"table.spectralClass.d","type":"table.spectralClass","value":null,"details":"Class D","subroll":null},{"id":436,"roll":3,"name":"Class O","code":"table.spectralClass.o","type":"table.spectralClass","value":null,"details":"Class O","subroll":null},{"id":437,"roll":4,"name":"Class B","code":"table.spectralClass.b","type":"table.spectralClass","value":null,"details":"Class B","subroll":null},{"id":438,"roll":5,"name":"Class A","code":"table.spectralClass.a","type":"table.spectralClass","value":null,"details":"Class A","subroll":null},{"id":439,"roll":6,"name":"Class F","code":"table.spectralClass.f","type":"table.spectralClass","value":null,"details":"Class F","subroll":null},{"id":440,"roll":7,"name":"Class G","code":"table.spectralClass.g","type":"table.spectralClass","value":null,"details":"Class G","subroll":null},{"id":441,"roll":8,"name":"Class K","code":"table.spectralClass.k","type":"table.spectralClass","value":null,"details":"Class K","subroll":null},{"id":442,"roll":9,"name":"Class M","code":"table.spectralClass.m","type":"table.spectralClass","value":null,"details":"Class M","subroll":null},{"id":443,"roll":10,"name":"Class M","code":"table.spectralClass.m","type":"table.spectralClass","value":null,"details":"Class M","subroll":null},{"id":444,"roll":11,"name":"Class M","code":"table.spectralClass.m","type":"table.spectralClass","value":null,"details":"Class M","subroll":null},{"id":445,"roll":12,"name":"Class M","code":"table.spectralClass.m","type":"table.spectralClass","value":null,"details":"Class M","subroll":null},{"id":446,"roll":13,"name":"Class M","code":"table.spectralClass.m","type":"table.spectralClass","value":null,"details":"Class M","subroll":null},{"id":447,"roll":14,"name":"Class K","code":"table.spectralClass.k","type":"table.spectralClass","value":null,"details":"Class K","subroll":null},{"id":448,"roll":15,"name":"Class G","code":"table.spectralClass.g","type":"table.spectralClass","value":null,"details":"Class G","subroll":null},{"id":449,"roll":16,"name":"Class F","code":"table.spectralClass.f","type":"table.spectralClass","value":null,"details":"Class F","subroll":null},{"id":450,"roll":17,"name":"Class A","code":"table.spectralClass.a","type":"table.spectralClass","value":null,"details":"Class A","subroll":null},{"id":451,"roll":18,"name":"Class B","code":"table.spectralClass.b","type":"table.spectralClass","value":null,"details":"Class B","subroll":null}]
+[
+    {
+        "id": 435,
+        "roll": 0,
+        "name": "Class D",
+        "code": "table.spectralClass.d",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class D",
+        "subroll": null
+    },
+    {
+        "id": 436,
+        "roll": 3,
+        "name": "Class O",
+        "code": "table.spectralClass.o",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class O",
+        "subroll": null
+    },
+    {
+        "id": 437,
+        "roll": 4,
+        "name": "Class B",
+        "code": "table.spectralClass.b",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class B",
+        "subroll": null
+    },
+    {
+        "id": 438,
+        "roll": 5,
+        "name": "Class A",
+        "code": "table.spectralClass.a",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class A",
+        "subroll": null
+    },
+    {
+        "id": 439,
+        "roll": 6,
+        "name": "Class F",
+        "code": "table.spectralClass.f",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class F",
+        "subroll": null
+    },
+    {
+        "id": 440,
+        "roll": 7,
+        "name": "Class G",
+        "code": "table.spectralClass.g",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class G",
+        "subroll": null
+    },
+    {
+        "id": 441,
+        "roll": 8,
+        "name": "Class K",
+        "code": "table.spectralClass.k",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class K",
+        "subroll": null
+    },
+    {
+        "id": 442,
+        "roll": 9,
+        "name": "Class M",
+        "code": "table.spectralClass.m",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class M",
+        "subroll": null
+    },
+    {
+        "id": 443,
+        "roll": 10,
+        "name": "Class M",
+        "code": "table.spectralClass.m",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class M",
+        "subroll": null
+    },
+    {
+        "id": 444,
+        "roll": 11,
+        "name": "Class M",
+        "code": "table.spectralClass.m",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class M",
+        "subroll": null
+    },
+    {
+        "id": 445,
+        "roll": 12,
+        "name": "Class M",
+        "code": "table.spectralClass.m",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class M",
+        "subroll": null
+    },
+    {
+        "id": 446,
+        "roll": 13,
+        "name": "Class M",
+        "code": "table.spectralClass.m",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class M",
+        "subroll": null
+    },
+    {
+        "id": 447,
+        "roll": 14,
+        "name": "Class K",
+        "code": "table.spectralClass.k",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class K",
+        "subroll": null
+    },
+    {
+        "id": 448,
+        "roll": 15,
+        "name": "Class G",
+        "code": "table.spectralClass.g",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class G",
+        "subroll": null
+    },
+    {
+        "id": 449,
+        "roll": 16,
+        "name": "Class F",
+        "code": "table.spectralClass.f",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class F",
+        "subroll": null
+    },
+    {
+        "id": 450,
+        "roll": 17,
+        "name": "Class A",
+        "code": "table.spectralClass.a",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class A",
+        "subroll": null
+    },
+    {
+        "id": 451,
+        "roll": 18,
+        "name": "Class B",
+        "code": "table.spectralClass.b",
+        "type": "table.spectralClass",
+        "value": null,
+        "details": "Class B",
+        "subroll": null
+    }
+]
